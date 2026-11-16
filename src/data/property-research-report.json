@@ -1,0 +1,1114 @@
+{
+  "checkedOn": "2026-11-13",
+  "totalProperties": 188,
+  "propertiesWithRera": 133,
+  "propertiesWithPublishedProjectMaps": 52,
+  "sourceInventoryMissingLocation": [
+    {
+      "id": "sobha-sobha-heritage",
+      "name": "SOBHA HERITAGE"
+    },
+    {
+      "id": "sobha-sobha-forest-view",
+      "name": "SOBHA FOREST VIEW"
+    },
+    {
+      "id": "sobha-sobha-magnolia",
+      "name": "SOBHA MAGNOLIA"
+    },
+    {
+      "id": "sobha-sobha-tulip",
+      "name": "SOBHA TULIP"
+    },
+    {
+      "id": "sobha-sobha-dewflower",
+      "name": "SOBHA DEWFLOWER"
+    },
+    {
+      "id": "sobha-sobha-forest-edge",
+      "name": "SOBHA FOREST EDGE"
+    },
+    {
+      "id": "sobha-sobha-morzaria-grandeur",
+      "name": "SOBHA MORZARIA GRANDEUR"
+    },
+    {
+      "id": "sobha-sobha-ivory",
+      "name": "SOBHA IVORY"
+    },
+    {
+      "id": "assetz-assetz-house",
+      "name": "Assetz House"
+    }
+  ],
+  "missingSuppliedLocation": [],
+  "unconfirmedRera": [
+    {
+      "id": "sobha-sobha-palladian",
+      "name": "SOBHA PALLADIAN",
+      "location": "Old Airport Road, Marathahalli",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-eternia",
+      "name": "SOBHA ETERNIA",
+      "location": "Haralur Main Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-marvella",
+      "name": "SOBHA MARVELLA",
+      "location": "Bellandur, Bangalore",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-habitech",
+      "name": "SOBHA HABITECH",
+      "location": "Whitefield",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-classic",
+      "name": "SOBHA CLASSIC",
+      "location": "Off Sarjapur Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-lavender",
+      "name": "SOBHA LAVENDER",
+      "location": "Marathahalli",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-daffodil",
+      "name": "SOBHA DAFFODIL",
+      "location": "HSR Layout",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-iris",
+      "name": "SOBHA IRIS",
+      "location": "Marathahalli",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-azalea",
+      "name": "SOBHA AZALEA",
+      "location": "Harohalli",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-dahlia",
+      "name": "SOBHA DAHLIA",
+      "location": "Bellandur",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-rose",
+      "name": "SOBHA ROSE",
+      "location": "Whitefield Main Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-garrison",
+      "name": "SOBHA GARRISON",
+      "location": "Tumkur Main Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-elite",
+      "name": "SOBHA ELITE",
+      "location": "Tumkur Main Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-ruby",
+      "name": "SOBHA RUBY",
+      "location": "Tumkur Main Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-ruby-platinum",
+      "name": "SOBHA RUBY PLATINUM",
+      "location": "Nagasandra",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-city",
+      "name": "SOBHA CITY",
+      "location": "Thanisandra",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-chrysanthemum",
+      "name": "SOBHA CHRYSANTHEMUM",
+      "location": "Thanisandra Main Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-landscape",
+      "name": "SOBHA LANDSCAPE",
+      "location": "Devanahalli",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-canvas",
+      "name": "SOBHA CANVAS",
+      "location": "Bandaramanahalli",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-althea",
+      "name": "SOBHA ALTHEA",
+      "location": "Nagenahalli",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-petunia",
+      "name": "SOBHA PETUNIA",
+      "location": "Nagavara",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-moonstone",
+      "name": "SOBHA MOONSTONE",
+      "location": "Dasarahalli",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-suncrest",
+      "name": "SOBHA SUNCREST",
+      "location": "Kanakapura Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-malachite-phase",
+      "name": "SOBHA MALACHITE PHASE",
+      "location": "Bellary Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-heritage",
+      "name": "SOBHA HERITAGE",
+      "location": "Near Veerabhadra Nagar Signal, Dsouza Nagar, Rajarajeshwari Nagar, RR Nagar, Bengaluru",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-forest-view",
+      "name": "SOBHA FOREST VIEW",
+      "location": "Off Kanakapura Road, Talaghattapura, South Bangalore, Bengaluru",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-magnolia",
+      "name": "SOBHA MAGNOLIA",
+      "location": "Bannerghatta Road, BTM Layout, South Bangalore, Bengaluru",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-tulip",
+      "name": "SOBHA TULIP",
+      "location": "24th Main Road, Ramaiah Garden, 6th Phase JP Nagar, South Bangalore, Bengaluru",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-dewflower",
+      "name": "SOBHA DEWFLOWER",
+      "location": "4th Cross Road, Sarakki Nagar, JP Nagar Phase 1, South Bangalore, Bengaluru",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "sobha-sobha-ivory",
+      "name": "SOBHA IVORY",
+      "location": "Johns Road Hermit Colony Sivanchetti Gardens, Ulsoor, Central Bangalore, Bengaluru",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "assetz-marq-2a-and-2b",
+      "name": "Marq 2A and 2B",
+      "location": "Off Whitefield Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "assetz-marq-1",
+      "name": "Marq 1",
+      "location": "Off Whitefield Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "assetz-east-point",
+      "name": "East Point",
+      "location": "Off Outer Ring Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "assetz-stratos",
+      "name": "Stratos",
+      "location": "Cunningham Road",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "assetz-lumos",
+      "name": "Lumos",
+      "location": "Yeshwanthpur",
+      "status": "Completed",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "assetz-vrindavan-tech-village",
+      "name": "Vrindavan Tech Village",
+      "location": "Outer Ring Road",
+      "status": "Portfolio reference",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "assetz-assetz-house",
+      "name": "Assetz House",
+      "location": "Assetz House, 30 Crescent Road, Bengaluru 560001",
+      "status": "Corporate office reference",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-northern-waves",
+      "name": "Northern Waves",
+      "location": "Off Hennur Road",
+      "status": "Ongoing",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-seasons",
+      "name": "Purva Seasons",
+      "location": "C.V. Raman Nagar",
+      "status": "Ongoing",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-midtown",
+      "name": "Purva Midtown",
+      "location": "off.old Madras Road",
+      "status": "Ready to move-in",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-limousine-homes",
+      "name": "Limousine Homes",
+      "location": "Rajajinagar",
+      "status": "Ongoing",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-270",
+      "name": "Purva 270",
+      "location": "C.V. Raman Nagar",
+      "status": "Ready to move-in",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-skydale",
+      "name": "Purva Skydale",
+      "location": "Off Sarjapur Road",
+      "status": "Ready to move-in",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-whitehall",
+      "name": "Purva Whitehall",
+      "location": "Sarjapur Road",
+      "status": "Ready to move-in",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-venezia",
+      "name": "Purva Venezia",
+      "location": "Yelahanka New Town",
+      "status": "Ready to move-in",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-atria-platina",
+      "name": "Purva Atria Platina",
+      "location": "RMV 2nd stage",
+      "status": "Ready to move-in",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-skywood",
+      "name": "Purva Skywood",
+      "location": "Off Sarjapur Road",
+      "status": "Ready to move-in",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-highland",
+      "name": "Purva Highland",
+      "location": "Off Kanakapura Road",
+      "status": "Ready to move-in",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-tiara",
+      "name": "Purva Tiara",
+      "location": "JP Nagar",
+      "status": "Ready to move-in",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-business-park",
+      "name": "Purva Business Park",
+      "location": "International Airport Road",
+      "status": null,
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-zentech",
+      "name": "Purva Zentech",
+      "location": "Kanakapura Road",
+      "status": null,
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "puravankara-purva-gainz",
+      "name": "Purva Gainz",
+      "location": "Electronic City",
+      "status": null,
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "provident-housing-provident-welworth-city",
+      "name": "Provident Welworth city",
+      "location": "Yelahanka-Doddaballapur Main Road, Bengaluru",
+      "status": "Sold Out",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "provident-housing-provident-the-tree",
+      "name": "Provident The Tree",
+      "location": "Off Magadi Road, Bengaluru",
+      "status": "Sold Out",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    {
+      "id": "lodha-lodha-whitefield",
+      "name": "Lodha Whitefield",
+      "location": "Whitefield, near Hope Farm",
+      "status": "Upcoming",
+      "reason": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  ],
+  "mapPinNeedsConfirmation": [
+    {
+      "id": "sobha-sobha-oakshire",
+      "name": "SOBHA OAKSHIRE",
+      "location": "Off Bellary Road, Devanahalli, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-dream-gardens",
+      "name": "SOBHA DREAM GARDENS",
+      "location": "Off Thanisandra Main Road, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-victoria-park-apartments",
+      "name": "SOBHA VICTORIA PARK – APARTMENTS",
+      "location": "Off Hennur Main Road, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-athena",
+      "name": "SOBHA ATHENA",
+      "location": "Thanisandra Main Road, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-hrc-pristine",
+      "name": "SOBHA HRC PRISTINE",
+      "location": "Amruthahalli Main Road, Jakkur, Bengaluru"
+    },
+    {
+      "id": "sobha-chartered-windsong-phase-2",
+      "name": "Chartered Windsong Phase 2",
+      "location": "Devanahalli"
+    },
+    {
+      "id": "sobha-sobha-palm-court",
+      "name": "SOBHA PALM COURT",
+      "location": "Kogilu Main Road, Yelahanka, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-lifestyle-legacy",
+      "name": "SOBHA LIFESTYLE LEGACY",
+      "location": "IVC Road, Devanahalli, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-victoria-park-row-houses",
+      "name": "SOBHA VICTORIA PARK – ROW HOUSES",
+      "location": "Off Hennur Main Road, Bengaluru"
+    },
+    {
+      "id": "sobha-chartered-woodpecker",
+      "name": "Chartered Woodpecker",
+      "location": "Devanahalli"
+    },
+    {
+      "id": "sobha-sobha-sentosa",
+      "name": "SOBHA SENTOSA",
+      "location": "Panathur Main Road, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-windsor",
+      "name": "SOBHA WINDSOR",
+      "location": "Whitefield, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-dream-acres",
+      "name": "SOBHA DREAM ACRES",
+      "location": "Panathur, Off Marathalli Road, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-lake-gardens",
+      "name": "SOBHA LAKE GARDENS",
+      "location": "KR Puram, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-royal-pavilion",
+      "name": "SOBHA ROYAL PAVILION",
+      "location": "Hadosiddapura, Sarjapur Road, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-royal-crest",
+      "name": "SOBHA ROYAL CREST",
+      "location": "Banashankari, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-manhattan-towers-townpark",
+      "name": "SOBHA MANHATTAN TOWERS – TOWNPARK",
+      "location": "Near Electronic City, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-brooklyn-towers-townpark",
+      "name": "SOBHA BROOKLYN TOWERS – TOWNPARK",
+      "location": "Near Electronic City, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-arena",
+      "name": "SOBHA ARENA",
+      "location": "Judicial Layout, Kanakapura Main Rd, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-clovelly",
+      "name": "SOBHA CLOVELLY",
+      "location": "Padmanabhanagar, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-rajvilas",
+      "name": "SOBHA RAJVILAS",
+      "location": "Rajaji Nagar, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-25-richmond",
+      "name": "SOBHA 25 RICHMOND",
+      "location": "Richmond Road, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-avenue-apartments",
+      "name": "SOBHA AVENUE APARTMENTS",
+      "location": "Doddabanahalli, Kannamangala near Old Madras Road and Whitefield"
+    },
+    {
+      "id": "sobha-sobha-palladian",
+      "name": "SOBHA PALLADIAN",
+      "location": "Old Airport Road, Marathahalli"
+    },
+    {
+      "id": "sobha-sobha-eternia",
+      "name": "SOBHA ETERNIA",
+      "location": "Haralur Main Road"
+    },
+    {
+      "id": "sobha-sobha-marvella",
+      "name": "SOBHA MARVELLA",
+      "location": "Bellandur, Bangalore"
+    },
+    {
+      "id": "sobha-sobha-habitech",
+      "name": "SOBHA HABITECH",
+      "location": "Whitefield"
+    },
+    {
+      "id": "sobha-sobha-classic",
+      "name": "SOBHA CLASSIC",
+      "location": "Off Sarjapur Road"
+    },
+    {
+      "id": "sobha-sobha-lavender",
+      "name": "SOBHA LAVENDER",
+      "location": "Marathahalli"
+    },
+    {
+      "id": "sobha-sobha-daffodil",
+      "name": "SOBHA DAFFODIL",
+      "location": "HSR Layout"
+    },
+    {
+      "id": "sobha-sobha-iris",
+      "name": "SOBHA IRIS",
+      "location": "Marathahalli"
+    },
+    {
+      "id": "sobha-sobha-azalea",
+      "name": "SOBHA AZALEA",
+      "location": "Harohalli"
+    },
+    {
+      "id": "sobha-sobha-dahlia",
+      "name": "SOBHA DAHLIA",
+      "location": "Bellandur"
+    },
+    {
+      "id": "sobha-sobha-rose",
+      "name": "SOBHA ROSE",
+      "location": "Whitefield Main Road"
+    },
+    {
+      "id": "sobha-sobha-indraprastha",
+      "name": "SOBHA INDRAPRASTHA",
+      "location": "Rajajinagar"
+    },
+    {
+      "id": "sobha-sobha-garrison",
+      "name": "SOBHA GARRISON",
+      "location": "Tumkur Main Road"
+    },
+    {
+      "id": "sobha-sobha-elite",
+      "name": "SOBHA ELITE",
+      "location": "Tumkur Main Road"
+    },
+    {
+      "id": "sobha-sobha-ruby",
+      "name": "SOBHA RUBY",
+      "location": "Tumkur Main Road"
+    },
+    {
+      "id": "sobha-sobha-ruby-platinum",
+      "name": "SOBHA RUBY PLATINUM",
+      "location": "Nagasandra"
+    },
+    {
+      "id": "sobha-sobha-city",
+      "name": "SOBHA CITY",
+      "location": "Thanisandra"
+    },
+    {
+      "id": "sobha-sobha-chrysanthemum",
+      "name": "SOBHA CHRYSANTHEMUM",
+      "location": "Thanisandra Main Road"
+    },
+    {
+      "id": "sobha-sobha-landscape",
+      "name": "SOBHA LANDSCAPE",
+      "location": "Devanahalli"
+    },
+    {
+      "id": "sobha-sobha-canvas",
+      "name": "SOBHA CANVAS",
+      "location": "Bandaramanahalli"
+    },
+    {
+      "id": "sobha-sobha-althea",
+      "name": "SOBHA ALTHEA",
+      "location": "Nagenahalli"
+    },
+    {
+      "id": "sobha-sobha-petunia",
+      "name": "SOBHA PETUNIA",
+      "location": "Nagavara"
+    },
+    {
+      "id": "sobha-sobha-moonstone",
+      "name": "SOBHA MOONSTONE",
+      "location": "Dasarahalli"
+    },
+    {
+      "id": "sobha-sobha-suncrest",
+      "name": "SOBHA SUNCREST",
+      "location": "Kanakapura Road"
+    },
+    {
+      "id": "sobha-sobha-malachite-phase",
+      "name": "SOBHA MALACHITE PHASE",
+      "location": "Bellary Road"
+    },
+    {
+      "id": "sobha-sobha-heritage",
+      "name": "SOBHA HERITAGE",
+      "location": "Near Veerabhadra Nagar Signal, Dsouza Nagar, Rajarajeshwari Nagar, RR Nagar, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-forest-view",
+      "name": "SOBHA FOREST VIEW",
+      "location": "Off Kanakapura Road, Talaghattapura, South Bangalore, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-magnolia",
+      "name": "SOBHA MAGNOLIA",
+      "location": "Bannerghatta Road, BTM Layout, South Bangalore, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-tulip",
+      "name": "SOBHA TULIP",
+      "location": "24th Main Road, Ramaiah Garden, 6th Phase JP Nagar, South Bangalore, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-dewflower",
+      "name": "SOBHA DEWFLOWER",
+      "location": "4th Cross Road, Sarakki Nagar, JP Nagar Phase 1, South Bangalore, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-forest-edge",
+      "name": "SOBHA FOREST EDGE",
+      "location": "Off Kanakapura Road, Talaghattapura, Kanakapura Road, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-morzaria-grandeur",
+      "name": "SOBHA MORZARIA GRANDEUR",
+      "location": "Bhavani Nagar, S.G. Palya, Dairy Circle, Koramangala, Bannerghatta Road-BTM Layout, Bengaluru"
+    },
+    {
+      "id": "sobha-sobha-ivory",
+      "name": "SOBHA IVORY",
+      "location": "Johns Road Hermit Colony Sivanchetti Gardens, Ulsoor, Central Bangalore, Bengaluru"
+    },
+    {
+      "id": "assetz-city-of-palms",
+      "name": "City of Palms",
+      "location": "Devanahalli"
+    },
+    {
+      "id": "assetz-mizumi-reserve",
+      "name": "Mizumi Reserve",
+      "location": "Off HSR Layout"
+    },
+    {
+      "id": "assetz-melodies-of-life-apartments",
+      "name": "Melodies of Life Apartments",
+      "location": "Off Hosa Road"
+    },
+    {
+      "id": "assetz-meru-meadow",
+      "name": "Meru & Meadow",
+      "location": "Kanakapura Main Road"
+    },
+    {
+      "id": "assetz-zen-sato",
+      "name": "Zen & Sato",
+      "location": "Yelahanka, North Bengaluru"
+    },
+    {
+      "id": "assetz-the-secret-lake",
+      "name": "The Secret Lake",
+      "location": "IVC Road, Devanahalli"
+    },
+    {
+      "id": "assetz-trees-tandem",
+      "name": "Trees & Tandem",
+      "location": "Off Sarjapur Road"
+    },
+    {
+      "id": "assetz-ren-rei",
+      "name": "Ren & Rei",
+      "location": "Off Hosa Road, Sarjapur"
+    },
+    {
+      "id": "assetz-melodies-of-life",
+      "name": "Melodies of Life",
+      "location": "Off Hosa Road, Sarjapur"
+    },
+    {
+      "id": "assetz-sora-saki",
+      "name": "Sora & Saki",
+      "location": "KIADB Aerospace, Bagalur"
+    },
+    {
+      "id": "assetz-66-shibui",
+      "name": "66 & Shibui",
+      "location": "Whitefield Main Road"
+    },
+    {
+      "id": "assetz-promise-of-spring",
+      "name": "Promise of Spring",
+      "location": "Avathi, Devanahalli"
+    },
+    {
+      "id": "assetz-canvas-cove",
+      "name": "Canvas & Cove",
+      "location": "Off Hosur Main Road, Begur"
+    },
+    {
+      "id": "assetz-soho-sky",
+      "name": "Soho & Sky",
+      "location": "Jakkur Main Road, Hebbal"
+    },
+    {
+      "id": "assetz-atmos-aura",
+      "name": "Atmos & Aura",
+      "location": "Shettigere"
+    },
+    {
+      "id": "assetz-marq-3a-and-marq-3b",
+      "name": "Marq 3A and Marq 3B",
+      "location": "Off Whitefield Road"
+    },
+    {
+      "id": "assetz-sun-sanctum-phase-1",
+      "name": "Sun & Sanctum Phase 1",
+      "location": "Off KR Puram, TC Palya"
+    },
+    {
+      "id": "assetz-sun-sanctum-phase-2",
+      "name": "Sun & Sanctum Phase 2",
+      "location": "Off KR Puram, TC Palya"
+    },
+    {
+      "id": "assetz-soul-soil",
+      "name": "Soul & Soil",
+      "location": "Off Hennur Road"
+    },
+    {
+      "id": "assetz-marq-2a-and-2b",
+      "name": "Marq 2A and 2B",
+      "location": "Off Whitefield Road"
+    },
+    {
+      "id": "assetz-38-banyan",
+      "name": "38 & Banyan",
+      "location": "C. V. Raman Road"
+    },
+    {
+      "id": "assetz-here-now",
+      "name": "Here & Now",
+      "location": "Behind Manyata Tech Park"
+    },
+    {
+      "id": "assetz-marq-1",
+      "name": "Marq 1",
+      "location": "Off Whitefield Road"
+    },
+    {
+      "id": "assetz-east-point",
+      "name": "East Point",
+      "location": "Off Outer Ring Road"
+    },
+    {
+      "id": "assetz-stratos",
+      "name": "Stratos",
+      "location": "Cunningham Road"
+    },
+    {
+      "id": "assetz-lumos",
+      "name": "Lumos",
+      "location": "Yeshwanthpur"
+    },
+    {
+      "id": "assetz-bloom-dell",
+      "name": "Bloom & Dell",
+      "location": "Whitefield"
+    },
+    {
+      "id": "assetz-codename-sublime",
+      "name": "Codename Sublime",
+      "location": "Hoskote (catalog)"
+    },
+    {
+      "id": "assetz-niwa-neo",
+      "name": "Niwa & Neo",
+      "location": "Aerospace & IT Park"
+    },
+    {
+      "id": "assetz-mizu-ki",
+      "name": "Mizu & Ki",
+      "location": "Off Hennur Road"
+    },
+    {
+      "id": "assetz-miru-miyo",
+      "name": "Miru & Miyo",
+      "location": "Yelahanka"
+    },
+    {
+      "id": "assetz-muse-maison",
+      "name": "Muse & Maison",
+      "location": "Off Hosa Road"
+    },
+    {
+      "id": "assetz-vrindavan-tech-village",
+      "name": "Vrindavan Tech Village",
+      "location": "Outer Ring Road"
+    },
+    {
+      "id": "assetz-assetz-house",
+      "name": "Assetz House",
+      "location": "Assetz House, 30 Crescent Road, Bengaluru 560001"
+    },
+    {
+      "id": "puravankara-purva-heritage",
+      "name": "Purva Heritage",
+      "location": "Kudlu Gate"
+    },
+    {
+      "id": "puravankara-northern-waves",
+      "name": "Northern Waves",
+      "location": "Off Hennur Road"
+    },
+    {
+      "id": "puravankara-purva-seasons",
+      "name": "Purva Seasons",
+      "location": "C.V. Raman Nagar"
+    },
+    {
+      "id": "puravankara-purva-midtown",
+      "name": "Purva Midtown",
+      "location": "off.old Madras Road"
+    },
+    {
+      "id": "puravankara-limousine-homes",
+      "name": "Limousine Homes",
+      "location": "Rajajinagar"
+    },
+    {
+      "id": "puravankara-purva-sunflower",
+      "name": "Purva Sunflower",
+      "location": "Rajajinagar"
+    },
+    {
+      "id": "puravankara-purva-270",
+      "name": "Purva 270",
+      "location": "C.V. Raman Nagar"
+    },
+    {
+      "id": "puravankara-purva-skydale",
+      "name": "Purva Skydale",
+      "location": "Off Sarjapur Road"
+    },
+    {
+      "id": "puravankara-purva-promenade",
+      "name": "Purva Promenade",
+      "location": "Hennur Road"
+    },
+    {
+      "id": "puravankara-purva-whitehall",
+      "name": "Purva Whitehall",
+      "location": "Sarjapur Road"
+    },
+    {
+      "id": "puravankara-coronation-square",
+      "name": "Coronation Square",
+      "location": "JP Nagar"
+    },
+    {
+      "id": "puravankara-purva-venezia",
+      "name": "Purva Venezia",
+      "location": "Yelahanka New Town"
+    },
+    {
+      "id": "puravankara-the-sound-of-water",
+      "name": "The Sound of Water",
+      "location": "Off Bannerghatta Road"
+    },
+    {
+      "id": "puravankara-purva-atria-platina",
+      "name": "Purva Atria Platina",
+      "location": "RMV 2nd stage"
+    },
+    {
+      "id": "puravankara-purva-skywood",
+      "name": "Purva Skywood",
+      "location": "Off Sarjapur Road"
+    },
+    {
+      "id": "puravankara-purva-highland",
+      "name": "Purva Highland",
+      "location": "Off Kanakapura Road"
+    },
+    {
+      "id": "puravankara-fresco-at-purva-westend",
+      "name": "Fresco at Purva Westend",
+      "location": "Kudlu Gate, Hosur Road"
+    },
+    {
+      "id": "puravankara-purva-palm-beach",
+      "name": "Purva Palm Beach",
+      "location": "Off Hennur Road"
+    },
+    {
+      "id": "puravankara-purva-smiling-willows",
+      "name": "Purva Smiling Willows",
+      "location": "Off Bannerghatta Road"
+    },
+    {
+      "id": "puravankara-purva-tiara",
+      "name": "Purva Tiara",
+      "location": "JP Nagar"
+    },
+    {
+      "id": "puravankara-purva-parkhill",
+      "name": "Purva Parkhill",
+      "location": "Off Kanakapura Road"
+    },
+    {
+      "id": "puravankara-purva-zenium",
+      "name": "Purva Zenium",
+      "location": "Hosahalli, Airport Road"
+    },
+    {
+      "id": "puravankara-purva-celestial",
+      "name": "Purva Celestial",
+      "location": "Hosahalli, Airport Road"
+    },
+    {
+      "id": "puravankara-purva-business-park",
+      "name": "Purva Business Park",
+      "location": "International Airport Road"
+    },
+    {
+      "id": "puravankara-purva-zentech",
+      "name": "Purva Zentech",
+      "location": "Kanakapura Road"
+    },
+    {
+      "id": "puravankara-purva-gainz",
+      "name": "Purva Gainz",
+      "location": "Electronic City"
+    },
+    {
+      "id": "provident-housing-provident-deansgate",
+      "name": "Provident Deansgate",
+      "location": "IVC Road, Bengaluru"
+    },
+    {
+      "id": "provident-housing-provident-equinox",
+      "name": "Provident Equinox",
+      "location": "Off Mysore Road"
+    },
+    {
+      "id": "lodha-lodha-beaumont-estate",
+      "name": "Lodha Beaumont Estate",
+      "location": "Sadahalli"
+    },
+    {
+      "id": "lodha-lodha-whitefield",
+      "name": "Lodha Whitefield",
+      "location": "Whitefield, near Hope Farm"
+    },
+    {
+      "id": "lodha-lodha-elanza",
+      "name": "Lodha Elanza",
+      "location": "Sarjapur Road"
+    },
+    {
+      "id": "lodha-lodha-azur",
+      "name": "Lodha Azur",
+      "location": "Off Bannerghatta Road"
+    },
+    {
+      "id": "lodha-lodha-haven",
+      "name": "Lodha Haven",
+      "location": "Hosa Road, HSR Extension"
+    },
+    {
+      "id": "lodha-lodha-mirabelle",
+      "name": "Lodha Mirabelle",
+      "location": "Near Manyata Tech Park"
+    },
+    {
+      "id": "godrej-properties-godrej-aveline",
+      "name": "Godrej Aveline",
+      "location": "Yelahanka, Bengaluru"
+    },
+    {
+      "id": "godrej-properties-godrej-avenues",
+      "name": "Godrej Avenues",
+      "location": "Yelahanka"
+    },
+    {
+      "id": "godrej-properties-godrej-reserve",
+      "name": "Godrej Reserve",
+      "location": "Devanahalli"
+    },
+    {
+      "id": "godrej-properties-godrej-24",
+      "name": "Godrej 24",
+      "location": "Bengaluru"
+    },
+    {
+      "id": "godrej-properties-godrej-eternity",
+      "name": "Godrej Eternity",
+      "location": "Kanakapura Road"
+    },
+    {
+      "id": "godrej-properties-godrej-united",
+      "name": "Godrej United",
+      "location": "Whitefield"
+    },
+    {
+      "id": "godrej-properties-godrej-air",
+      "name": "Godrej Air",
+      "location": "Whitefield"
+    },
+    {
+      "id": "godrej-properties-godrej-aqua",
+      "name": "Godrej Aqua",
+      "location": "International Airport Road"
+    },
+    {
+      "id": "godrej-properties-godrej-park-retreat",
+      "name": "Godrej Park Retreat",
+      "location": "Bengaluru"
+    },
+    {
+      "id": "godrej-properties-godrej-royale-woods",
+      "name": "Godrej Royale Woods",
+      "location": "Bengaluru"
+    },
+    {
+      "id": "godrej-properties-godrej-splendour",
+      "name": "Godrej Splendour",
+      "location": "Bengaluru"
+    },
+    {
+      "id": "casatrance-needs-3-project-168",
+      "name": "Needs 3 Project 168",
+      "location": "Horamavu"
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "hero": "/images/home/hero.webp",
+  "cityBackground": "/images/home/city-background.png",
+  "cities": [
+    {
+      "name": "Bangalore",
+      "color": "#ffd09a",
+      "image": "/images/home/city-bangalore.png"
+    },
+    {
+      "name": "Pune",
+      "color": "#f0ecff",
+      "image": "/images/home/city-pune.png"
+    },
+    {
+      "name": "Chennai",
+      "color": "#b3e6e5",
+      "image": "/images/home/city-chennai.png"
+    },
+    {
+      "name": "Hyderabad",
+      "color": "#dce3c2",
+      "image": "/images/home/city-hyderabad.png"
+    },
+    {
+      "name": "Dubai",
+      "color": "#ffe8ef",
+      "image": "/images/home/city-dubai.png"
+    }
+  ],
+  "builders": [
+    {
+      "image": "/images/home/builder-0.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-1.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-2.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-3.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-4.jpeg",
+      "name": "Emaar"
+    },
+    {
+      "image": "/images/home/builder-5.png",
+      "name": "Navin"
+    },
+    {
+      "image": "/images/home/builder-6.webp",
+      "name": "Sree Guru Foundation"
+    },
+    {
+      "image": "/images/home/builder-7.png",
+      "name": "Malles"
+    },
+    {
+      "image": "/images/home/builder-8.webp",
+      "name": "Urbanrise"
+    },
+    {
+      "image": "/images/home/builder-9.webp",
+      "name": "Vijay Raja Group"
+    },
+    {
+      "image": "/images/home/builder-10.png",
+      "name": "Ruby Builders"
+    },
+    {
+      "image": "/images/home/builder-11.png",
+      "name": "GP Homes"
+    },
+    {
+      "image": "/images/home/builder-12.png",
+      "name": "Newry Properties"
+    },
+    {
+      "image": "/images/home/builder-13.png",
+      "name": "Doshi Housing"
+    },
+    {
+      "image": "/images/home/builder-14.png",
+      "name": "DAC Developers"
+    },
+    {
+      "image": "/images/home/builder-15.webp",
+      "name": "DRA Homes"
+    },
+    {
+      "image": "/images/home/builder-16.webp",
+      "name": "KG Developers"
+    },
+    {
+      "image": "/images/home/builder-17.png",
+      "name": "Urban Tree"
+    },
+    {
+      "image": "/images/home/builder-18.png",
+      "name": "Shriram Properties"
+    },
+    {
+      "image": "/images/home/builder-19.png",
+      "name": "Jain Housing"
+    },
+    {
+      "image": "/images/home/builder-20.png",
+      "name": "Appaswamy Real Estate"
+    },
+    {
+      "image": "/images/home/builder-21.webp",
+      "name": "Mahindra Lifespaces"
+    },
+    {
+      "image": "/images/home/builder-22.webp",
+      "name": "My Home Constructions"
+    },
+    {
+      "image": "/images/home/builder-23.png",
+      "name": "SMR Holdings"
+    },
+    {
+      "image": "/images/home/builder-24.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-25.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-26.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-27.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-28.png",
+      "name": "APARNA CYBERHEIGHTS"
+    },
+    {
+      "image": "/images/home/builder-29.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-30.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-31.webp",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-32.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-33.jpeg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-34.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-35.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-36.webp",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-37.webp",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-38.webp",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-39.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-40.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-41.jpg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-42.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-43.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-44.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-45.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-46.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-47.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-48.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-49.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-50.webp",
+      "name": "L & T Realty"
+    },
+    {
+      "image": "/images/home/builder-51.webp",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-52.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-53.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-54.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-55.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-56.jpg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-57.jpg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-58.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-59.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-60.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-61.webp",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-62.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-63.jpg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-64.jpg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-65.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-66.webp",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-67.jpg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-68.jpeg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-69.jpg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-70.jpeg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-71.jpg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-72.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-73.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-74.webp",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-75.jpg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-76.png",
+      "name": "Kasturi housing"
+    },
+    {
+      "image": "/images/home/builder-77.webp",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-78.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-79.webp",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-80.jpg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-81.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-82.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-83.jpg",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-84.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-85.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-86.png",
+      "name": ""
+    },
+    {
+      "image": "/images/home/builder-87.png",
+      "name": ""
+    }
+  ],
+  "banners": [
+    "/images/home/banner-0.png",
+    "/images/home/banner-1.png",
+    "/images/home/banner-2.png",
+    "/images/home/banner-3.png",
+    "/images/home/banner-4.png"
+  ],
+  "featuredImages": [
+    "/images/home/southern-star.png",
+    "/images/home/suncrest.png"
+  ],
+  "process": [
+    "/images/home/process-0.png",
+    "/images/home/process-1.png",
+    "/images/home/process-2.png",
+    "/images/home/process-3.png",
+    "/images/home/process-4.png"
+  ],
+  "blogs": [
+    {
+      "name": "Godrej Woodscapes",
+      "title": "Godrej Woodscapes: a buyer’s guide",
+      "excerpt": "Explore Godrej Woodscapes with a practical guide to location, home layouts, purchase costs and site-visit questions",
+      "image": "/images/projects/godrej-properties-godrej-woodscapes.jpg",
+      "url": "/blogs/godrej-woodscapes/",
+      "imagePosition": "center bottom",
+      "imageKind": "project"
+    },
+    {
+      "name": "Brigade Misty Green",
+      "title": "Brigade Misty Green: a buyer’s guide",
+      "excerpt": "Explore Brigade Misty Green with a practical guide to location, home layouts, purchase costs and site-visit questions",
+      "image": "/images/placeholders/apartments.jpg",
+      "url": "/blogs/brigade-misty-green/",
+      "imagePosition": "center",
+      "imageKind": "illustrative"
+    },
+    {
+      "name": "Prestige Suncrest",
+      "title": "Prestige Suncrest: a buyer’s guide",
+      "excerpt": "Explore Prestige Suncrest with a practical guide to location, home layouts, purchase costs and site-visit questions",
+      "image": "/images/placeholders/apartments.jpg",
+      "url": "/blogs/prestige-suncrest/",
+      "imagePosition": "75% center",
+      "imageKind": "illustrative"
+    },
+    {
+      "name": "Sobha Ayana",
+      "title": "Sobha Ayana: a buyer’s guide",
+      "excerpt": "Explore Sobha Ayana with a practical guide to location, home layouts, purchase costs and site-visit questions",
+      "image": "/images/projects/sobha-sobha-ayana.jpg",
+      "url": "/blogs/sobha-ayana/",
+      "imagePosition": "center",
+      "imageKind": "project"
+    }
+  ],
+  "googleLogo": "/images/home/google-logo.svg",
+  "googleIcon": "/images/home/google-icon.svg"
+}

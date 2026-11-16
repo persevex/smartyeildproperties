@@ -1,0 +1,30 @@
+{
+  "sourceRows": 188,
+  "uniqueProjects": 188,
+  "duplicatesRemoved": 0,
+  "missing": {
+    "builder": 7,
+    "location": 9,
+    "propertyType": 34,
+    "configuration": 62,
+    "sizeSqFt": 115,
+    "status": 42,
+    "advertisedPrice": 109,
+    "priceFromLakh": 109,
+    "possessionDate": 180,
+    "reraIds": 175,
+    "siteArea": 181,
+    "totalUnits": 181,
+    "projectUrl": 68,
+    "image": 188
+  },
+  "sourceBrands": [
+    "SOBHA",
+    "Assetz",
+    "Puravankara",
+    "Provident Housing",
+    "Lodha",
+    "Godrej Properties",
+    "Casatrance"
+  ]
+}

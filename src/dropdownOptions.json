@@ -1,0 +1,1296 @@
+{
+  "locations": [
+    {
+      "text": "Akshaya Nagar",
+      "value": "akshaya-nagar"
+    },
+    {
+      "text": "Bangalore",
+      "value": "bangalore"
+    },
+    {
+      "text": "- Aerospace Park, Bangalore North",
+      "value": "aerospace-park-bangalore-north-bangalore"
+    },
+    {
+      "text": "- Akshay Nagar , South Bangalore",
+      "value": "akshay-nagar-south-bangalore"
+    },
+    {
+      "text": "- Akshaya Nagar",
+      "value": "akshaya-nagar-bangalore"
+    },
+    {
+      "text": "- Attibele",
+      "value": "attibele"
+    },
+    {
+      "text": "- Bagalur",
+      "value": "bagalur"
+    },
+    {
+      "text": "- Bagalur Road, North Bangalore",
+      "value": "bagalur-road-north-bangalore"
+    },
+    {
+      "text": "- Balagere road",
+      "value": "balagere-road"
+    },
+    {
+      "text": "- Banashankari",
+      "value": "banashankari"
+    },
+    {
+      "text": "- Banneghatta Road",
+      "value": "banneghatta-road"
+    },
+    {
+      "text": "- Bannerghatta Road, Bangalore",
+      "value": "bannerghatta-road-bangalore"
+    },
+    {
+      "text": "- Begur Road",
+      "value": "begur-road"
+    },
+    {
+      "text": "- Bellandur",
+      "value": "bellandur"
+    },
+    {
+      "text": "- Bidadi",
+      "value": "bidadi"
+    },
+    {
+      "text": "- Budigere Cross",
+      "value": "budigere-cross"
+    },
+    {
+      "text": "- Budigere Cross, Bangalore",
+      "value": "budigere-cross-bangalore"
+    },
+    {
+      "text": "- Chandapura",
+      "value": "chandapura"
+    },
+    {
+      "text": "- Chikkaballapur Road",
+      "value": "chikkaballapur-road"
+    },
+    {
+      "text": "- Cooke Town",
+      "value": "cooke-town"
+    },
+    {
+      "text": "- CV Raman Nagar",
+      "value": "cv-raman-nagar"
+    },
+    {
+      "text": "- Devanahalli",
+      "value": "devanahalli"
+    },
+    {
+      "text": "- - Greater Kailash, New Delhi",
+      "value": "greater-kailash-new-delhi"
+    },
+    {
+      "text": "- Devanahalli - Doddaballapura Road",
+      "value": "devanahalli-doddaballapura-road"
+    },
+    {
+      "text": "- Devanahalli, Bangalore",
+      "value": "devanahalli-bangalore"
+    },
+    {
+      "text": "- Doddaballapur",
+      "value": "doddaballapur"
+    },
+    {
+      "text": "- Doddabanahalli",
+      "value": "doddabanahalli"
+    },
+    {
+      "text": "- Dommasandra",
+      "value": "dommasandra"
+    },
+    {
+      "text": "- Electronic City",
+      "value": "electronic-city"
+    },
+    {
+      "text": "- Frazer Town",
+      "value": "frazer-town"
+    },
+    {
+      "text": "- Gangasandra",
+      "value": "gangasandra"
+    },
+    {
+      "text": "- Gummanahalli",
+      "value": "gummanahalli"
+    },
+    {
+      "text": "- Gunjur",
+      "value": "gunjur"
+    },
+    {
+      "text": "- HBR Layout",
+      "value": "hbr-layout"
+    },
+    {
+      "text": "- Hebbal",
+      "value": "hebbal"
+    },
+    {
+      "text": "- Hennur Main Road",
+      "value": "hennur-main-road"
+    },
+    {
+      "text": "- Hennur Road",
+      "value": "hennur-road"
+    },
+    {
+      "text": "- Hennur Road, Bangalore",
+      "value": "hennur-road-bangalore"
+    },
+    {
+      "text": "- Hoodi",
+      "value": "hoodi"
+    },
+    {
+      "text": "- Hoodi Circle, Whitefield",
+      "value": "hoodi-circle-whitefield"
+    },
+    {
+      "text": "- Hope Farm",
+      "value": "hope-farm"
+    },
+    {
+      "text": "- Horamavu , North Bangalore",
+      "value": "horamavu-north-bangalore"
+    },
+    {
+      "text": "- Hosa Road",
+      "value": "hosa-road"
+    },
+    {
+      "text": "- Hoskote",
+      "value": "hoskote"
+    },
+    {
+      "text": "- Hosur Main Road",
+      "value": "hosur-main-road"
+    },
+    {
+      "text": "- Hosur Road",
+      "value": "hosur-road"
+    },
+    {
+      "text": "- HSR Layout",
+      "value": "hsr-layout"
+    },
+    {
+      "text": "- Indiranagar",
+      "value": "indiranagar"
+    },
+    {
+      "text": "- IVC Road",
+      "value": "ivc-road"
+    },
+    {
+      "text": "- Jakkur",
+      "value": "jakkur"
+    },
+    {
+      "text": "- Jakkur, Bangalore",
+      "value": "jakkur-bangalore"
+    },
+    {
+      "text": "- Jigani Road",
+      "value": "jigani-road"
+    },
+    {
+      "text": "- JP Nagar",
+      "value": "jp-nagar"
+    },
+    {
+      "text": "- K R Puram",
+      "value": "k-r-puram"
+    },
+    {
+      "text": "- Kadugodi, Whitefield",
+      "value": "kadugodi-whitefield"
+    },
+    {
+      "text": "- Kanakapura Road",
+      "value": "kanakapura-road"
+    },
+    {
+      "text": "- Kengeri",
+      "value": "kengeri"
+    },
+    {
+      "text": "- Kogilu",
+      "value": "kogilu"
+    },
+    {
+      "text": "- Kogilu Cross",
+      "value": "kogilu-cross"
+    },
+    {
+      "text": "- Koramangala",
+      "value": "koramangala"
+    },
+    {
+      "text": "- Kudlu Gate",
+      "value": "kudlu-gate"
+    },
+    {
+      "text": "- Magadi Road",
+      "value": "magadi-road"
+    },
+    {
+      "text": "- Mahadevapura, Whitefield",
+      "value": "mahadevapura-whitefield"
+    },
+    {
+      "text": "- Malur",
+      "value": "malur"
+    },
+    {
+      "text": "- Marathahalli",
+      "value": "marathahalli"
+    },
+    {
+      "text": "- Mysore Road",
+      "value": "mysore-road"
+    },
+    {
+      "text": "- North Bangalore",
+      "value": "north-bangalore"
+    },
+    {
+      "text": "- Off Hennur Main Road, North Bangalore",
+      "value": "off-hennur-main-road-north-bangalore"
+    },
+    {
+      "text": "- Old Madras Road",
+      "value": "old-madras-road"
+    },
+    {
+      "text": "- Outer Ring Road",
+      "value": "outer-ring-road"
+    },
+    {
+      "text": "- Panathur",
+      "value": "panathur"
+    },
+    {
+      "text": "- RajajiNagar",
+      "value": "rajajinagar"
+    },
+    {
+      "text": "- Sahakaranagar,",
+      "value": "sahakaranagar"
+    },
+    {
+      "text": "- Sarjapur Road",
+      "value": "sarjapur-road"
+    },
+    {
+      "text": "- Sarjapur Road, Bangalore",
+      "value": "sarjapur-road-bangalore"
+    },
+    {
+      "text": "- Sarjapura",
+      "value": "sarjapura"
+    },
+    {
+      "text": "- Sarjapura Road",
+      "value": "new-address"
+    },
+    {
+      "text": "- Seegehalli, Whitefield",
+      "value": "seegehalli-whitefield"
+    },
+    {
+      "text": "- Soukya Road",
+      "value": "soukya-road"
+    },
+    {
+      "text": "- Sumadhura Epitome",
+      "value": "sumadhura-epitome"
+    },
+    {
+      "text": "- Talaghattapura",
+      "value": "talaghattapura"
+    },
+    {
+      "text": "- Thanisandra",
+      "value": "thanisandra"
+    },
+    {
+      "text": "- Thanisandra, Bangalore",
+      "value": "thanisandra-bangalore"
+    },
+    {
+      "text": "- Thannisandra Road",
+      "value": "north-bangalore-bangalore"
+    },
+    {
+      "text": "- Tumkur Road",
+      "value": "tumkur-road"
+    },
+    {
+      "text": "- Ulsoor off MG Road",
+      "value": "ulsoor-off-mg-road"
+    },
+    {
+      "text": "- Varthur Gunjur Road",
+      "value": "varthur-gunjur-road"
+    },
+    {
+      "text": "- Varthur Main Road",
+      "value": "varthur-main-road"
+    },
+    {
+      "text": "- Varthur Main Road, Bangalore",
+      "value": "varthur-main-road-bangalore"
+    },
+    {
+      "text": "- Varthur Road, Bangalore",
+      "value": "varthur-road-bangalore"
+    },
+    {
+      "text": "- Vidyaranyapura",
+      "value": "vidyaranyapura"
+    },
+    {
+      "text": "- Whitefield",
+      "value": "whitefield"
+    },
+    {
+      "text": "- Whitefield, Bangalore",
+      "value": "whitefield-bangalore"
+    },
+    {
+      "text": "- Yelahanka",
+      "value": "yelahanka"
+    },
+    {
+      "text": "- Yelahanka Extension",
+      "value": "yelahanka-extension"
+    },
+    {
+      "text": "- Yelahanka, Bangalore",
+      "value": "yelahanka-bangalore"
+    },
+    {
+      "text": "- Yelahanka, North Bangalore",
+      "value": "yelahanka-north-bangalore"
+    },
+    {
+      "text": "- Yemalur",
+      "value": "yemalur"
+    },
+    {
+      "text": "Chennai",
+      "value": "chennai"
+    },
+    {
+      "text": "- Adyar",
+      "value": "adyar"
+    },
+    {
+      "text": "- Alwarpet",
+      "value": "alwarpet"
+    },
+    {
+      "text": "- Ambattur",
+      "value": "ambattur"
+    },
+    {
+      "text": "- Anna Nagar",
+      "value": "anna-nagar"
+    },
+    {
+      "text": "- Anna Nagar, Chennai",
+      "value": "anna-nagar-chennai"
+    },
+    {
+      "text": "- Avadi",
+      "value": "avadi"
+    },
+    {
+      "text": "- Ayanambakkam",
+      "value": "ayanambakkam"
+    },
+    {
+      "text": "- Chengalpattu",
+      "value": "chengalpattu"
+    },
+    {
+      "text": "- East Tambaram",
+      "value": "east-tambaram"
+    },
+    {
+      "text": "- Gowrivakkam",
+      "value": "gowrivakkam"
+    },
+    {
+      "text": "- Guduvanchery",
+      "value": "guduvanchery"
+    },
+    {
+      "text": "- Guindy",
+      "value": "guindy"
+    },
+    {
+      "text": "- Injambakkam",
+      "value": "injambakkam"
+    },
+    {
+      "text": "- Karapakkam",
+      "value": "karapakkam"
+    },
+    {
+      "text": "- Kattupakkam",
+      "value": "kattupakkam"
+    },
+    {
+      "text": "- Kelambakkam",
+      "value": "kelambakkam"
+    },
+    {
+      "text": "- Kilpauk",
+      "value": "kilpauk"
+    },
+    {
+      "text": "- Kodambakkam",
+      "value": "kodambakkam"
+    },
+    {
+      "text": "- Korattur",
+      "value": "korattur"
+    },
+    {
+      "text": "- Kottivakkam",
+      "value": "kottivakkam"
+    },
+    {
+      "text": "- Kovilambakkam, Chennai",
+      "value": "kovilambakkam-chennai"
+    },
+    {
+      "text": "- Kovilancheri",
+      "value": "kovilancheri"
+    },
+    {
+      "text": "- Kovur",
+      "value": "kovur"
+    },
+    {
+      "text": "- Kundrathur",
+      "value": "kundrathur"
+    },
+    {
+      "text": "- Madambakkam",
+      "value": "madambakkam"
+    },
+    {
+      "text": "- Madhanadhapuram",
+      "value": "madhanadhapuram"
+    },
+    {
+      "text": "- Madipakkam",
+      "value": "madipakkam"
+    },
+    {
+      "text": "- Mahindra City",
+      "value": "mahindra-city"
+    },
+    {
+      "text": "- Manapakkam",
+      "value": "manapakkam"
+    },
+    {
+      "text": "- Manapakkam, Chennai",
+      "value": "manapakkam-chennai"
+    },
+    {
+      "text": "- Mannivakkam",
+      "value": "mannivakkam"
+    },
+    {
+      "text": "- Medavakkam",
+      "value": "medavakkam"
+    },
+    {
+      "text": "- Menambedu",
+      "value": "menambedu"
+    },
+    {
+      "text": "- Mogappair",
+      "value": "mogappair"
+    },
+    {
+      "text": "- Mogappair West",
+      "value": "mogappair-west"
+    },
+    {
+      "text": "- Mount Road",
+      "value": "mount-road"
+    },
+    {
+      "text": "- Mugaiyur",
+      "value": "mugaiyur"
+    },
+    {
+      "text": "- Muthukadu",
+      "value": "muthukadu"
+    },
+    {
+      "text": "- Muttukadu",
+      "value": "muttukadu"
+    },
+    {
+      "text": "- Navalur",
+      "value": "navalur"
+    },
+    {
+      "text": "- Near Kilpauk",
+      "value": "near-kilpauk"
+    },
+    {
+      "text": "- Near Siruseri, Chennai",
+      "value": "near-siruseri-chennai"
+    },
+    {
+      "text": "- Nungambakkam",
+      "value": "nungambakkam"
+    },
+    {
+      "text": "- OMR, Chennai",
+      "value": "omr-chennai"
+    },
+    {
+      "text": "- Oragadam",
+      "value": "oragadam"
+    },
+    {
+      "text": "- Padi",
+      "value": "padi"
+    },
+    {
+      "text": "- Padur",
+      "value": "padur"
+    },
+    {
+      "text": "- Pallavaram",
+      "value": "pallavaram"
+    },
+    {
+      "text": "- Pallikaranai",
+      "value": "pallikaranai"
+    },
+    {
+      "text": "- Pammal",
+      "value": "pammal"
+    },
+    {
+      "text": "- Pattabiram",
+      "value": "pattabiram"
+    },
+    {
+      "text": "- Perumbakkam",
+      "value": "perumbakkam"
+    },
+    {
+      "text": "- Perungalathur",
+      "value": "perungalathur"
+    },
+    {
+      "text": "- Perungudi",
+      "value": "perungudi"
+    },
+    {
+      "text": "- Poonamallee",
+      "value": "poonamallee"
+    },
+    {
+      "text": "- Porur",
+      "value": "porur"
+    },
+    {
+      "text": "- Potheri",
+      "value": "potheri"
+    },
+    {
+      "text": "- Pudupakkam Village",
+      "value": "pudupakkam-village-chennai"
+    },
+    {
+      "text": "- Ramapuram",
+      "value": "ramapuram"
+    },
+    {
+      "text": "- Royapuram",
+      "value": "royapuram"
+    },
+    {
+      "text": "- Sholinganallur",
+      "value": "sholinganallur"
+    },
+    {
+      "text": "- Siruseri",
+      "value": "siruseri"
+    },
+    {
+      "text": "- Sithalapakkam",
+      "value": "sithalapakkam"
+    },
+    {
+      "text": "- Srinagar Colony",
+      "value": "srinagar-colony"
+    },
+    {
+      "text": "- T. Nagar",
+      "value": "t-nagar"
+    },
+    {
+      "text": "- Tambaram",
+      "value": "tambaram"
+    },
+    {
+      "text": "- Thaiyur",
+      "value": "thaiyur"
+    },
+    {
+      "text": "- Thalambur",
+      "value": "thalambur"
+    },
+    {
+      "text": "- Thirumazhisai",
+      "value": "thirumazhisai"
+    },
+    {
+      "text": "- Thirumudivakkam",
+      "value": "thirumudivakkam"
+    },
+    {
+      "text": "- Thirumullaivoyal",
+      "value": "thirumullaivoyal"
+    },
+    {
+      "text": "- Thiruporur",
+      "value": "thiruporur"
+    },
+    {
+      "text": "- Thiruverkadu",
+      "value": "thiruverkadu"
+    },
+    {
+      "text": "- Thoraipakkam",
+      "value": "thoraipakkam"
+    },
+    {
+      "text": "- Tirupandiyur",
+      "value": "tirupandiyur"
+    },
+    {
+      "text": "- Tiruvallur",
+      "value": "tiruvallur"
+    },
+    {
+      "text": "- Tiruvottiyur",
+      "value": "tiruvottiyur"
+    },
+    {
+      "text": "- Tondiarpet",
+      "value": "tondiarpet"
+    },
+    {
+      "text": "- Urapakkam",
+      "value": "urapakkam"
+    },
+    {
+      "text": "- Valarpuram",
+      "value": "valarpuram"
+    },
+    {
+      "text": "- Valasaravakkam",
+      "value": "valasaravakkam"
+    },
+    {
+      "text": "- Vanagaram",
+      "value": "vanagaram"
+    },
+    {
+      "text": "- Vandalur Main Road",
+      "value": "vandalur-main-road"
+    },
+    {
+      "text": "Delhi",
+      "value": "delhi"
+    },
+    {
+      "text": "- Greater Kailash, New Delhi",
+      "value": "greater-kailash-new-delhi-delhi"
+    },
+    {
+      "text": "- Moti Nagar, West Delhi",
+      "value": "moti-nagar-west-delhi-delhi"
+    },
+    {
+      "text": "Dubai",
+      "value": "dubai"
+    },
+    {
+      "text": "- Al Rassi Lake",
+      "value": "al-rassi-lake"
+    },
+    {
+      "text": "- Al Safa - Dubai",
+      "value": "al-safa-dubai"
+    },
+    {
+      "text": "- Bluewaters Island",
+      "value": "bluewaters-island"
+    },
+    {
+      "text": "- Business Bay, Dubai",
+      "value": "business-bay-dubai-dubai"
+    },
+    {
+      "text": "- City Walk",
+      "value": "city-walk"
+    },
+    {
+      "text": "- Damac Hills - Dubai",
+      "value": "damac-hills-dubai"
+    },
+    {
+      "text": "- Dubai Creek Harbour",
+      "value": "dubai-creek-harbour"
+    },
+    {
+      "text": "- Dubai Harbour",
+      "value": "dubai-harbour"
+    },
+    {
+      "text": "- Dubai Water Canal",
+      "value": "dubai-water-canal"
+    },
+    {
+      "text": "- Dubailand",
+      "value": "dubailand"
+    },
+    {
+      "text": "- Emaar South",
+      "value": "emaar-south"
+    },
+    {
+      "text": "- Golf City - Dubai",
+      "value": "golf-city-dubai"
+    },
+    {
+      "text": "- International Marine Club - Dubai",
+      "value": "international-marine-club-dubai"
+    },
+    {
+      "text": "- Jumeirah",
+      "value": "jumeirah"
+    },
+    {
+      "text": "- Jumeirah Bay",
+      "value": "jumeirah-bay"
+    },
+    {
+      "text": "- Jumeirah Lake Towers",
+      "value": "jumeirah-lake-towers"
+    },
+    {
+      "text": "- MBR City",
+      "value": "mbr-city"
+    },
+    {
+      "text": "- Motor City",
+      "value": "motor-city"
+    },
+    {
+      "text": "- Nad Al Sheba",
+      "value": "nad-al-sheba"
+    },
+    {
+      "text": "- Palm Jumeirah",
+      "value": "palm-jumeirah"
+    },
+    {
+      "text": "- Port De La Mer",
+      "value": "port-de-la-mer"
+    },
+    {
+      "text": "- Ras Al Khor",
+      "value": "ras-al-khor"
+    },
+    {
+      "text": "- Sheikh Zayed Road",
+      "value": "sheikh-zayed-road"
+    },
+    {
+      "text": "- Sobha Hartland",
+      "value": "sobha-hartland"
+    },
+    {
+      "text": "- Sobha Hartland 2",
+      "value": "sobha-hartland-2"
+    },
+    {
+      "text": "- Wadi Al Safa 2",
+      "value": "wadi-al-safa-2"
+    },
+    {
+      "text": "Hyderabad",
+      "value": "hyderabad"
+    },
+    {
+      "text": "- Bandlaguda Jagir",
+      "value": "bandlaguda-jagir"
+    },
+    {
+      "text": "- Budwel, Hyderabad",
+      "value": "budwel-hyderabad"
+    },
+    {
+      "text": "- Gachibowli, Hyderabad",
+      "value": "gachibowli-hyderabad"
+    },
+    {
+      "text": "- Gandi Maisamma",
+      "value": "gandi-maisamma-hyderabad"
+    },
+    {
+      "text": "- Gopanpally",
+      "value": "gopanpally"
+    },
+    {
+      "text": "- Isnapur",
+      "value": "isnapur-hyderabad"
+    },
+    {
+      "text": "- Kokapet",
+      "value": "kokapet"
+    },
+    {
+      "text": "- Kokapet, Hyderabad",
+      "value": "kokapet-hyderabad"
+    },
+    {
+      "text": "- Kompally",
+      "value": "kompally"
+    },
+    {
+      "text": "- Kondapur",
+      "value": "kondapur"
+    },
+    {
+      "text": "- Madeenaguda",
+      "value": "madeenaguda"
+    },
+    {
+      "text": "- Manikonda",
+      "value": "manikonda"
+    },
+    {
+      "text": "- Miyapur",
+      "value": "miyapur"
+    },
+    {
+      "text": "- Nallagandla",
+      "value": "nallagandla-hyderabad"
+    },
+    {
+      "text": "- Nanakramguda",
+      "value": "nanakramguda"
+    },
+    {
+      "text": "- Patancheru",
+      "value": "patancheru"
+    },
+    {
+      "text": "- Pocharam",
+      "value": "pocharam"
+    },
+    {
+      "text": "- Shaikpet",
+      "value": "shaikpet"
+    },
+    {
+      "text": "- Shamshabad",
+      "value": "shamshabad"
+    },
+    {
+      "text": "- Tadepalli",
+      "value": "tadepalli"
+    },
+    {
+      "text": "- Tellapur",
+      "value": "tellapur"
+    },
+    {
+      "text": "- Uppal",
+      "value": "uppal"
+    },
+    {
+      "text": "Kudlu",
+      "value": "kudlu"
+    },
+    {
+      "text": "Pune",
+      "value": "pune"
+    },
+    {
+      "text": "- Anand Nagar",
+      "value": "anand-nagar"
+    },
+    {
+      "text": "- - Vadgaon Sheri",
+      "value": "vadgaon-sheri"
+    },
+    {
+      "text": "- Aundh",
+      "value": "aundh"
+    },
+    {
+      "text": "- Balewadi",
+      "value": "balewadi"
+    },
+    {
+      "text": "- Baner",
+      "value": "baner"
+    },
+    {
+      "text": "- Baner-Balewadi, Pune",
+      "value": "baner-balewadi-pune"
+    },
+    {
+      "text": "- Baner-MAHALUNGE Road, Pune",
+      "value": "baner-mahalunge-road-pune"
+    },
+    {
+      "text": "- Bavdhan",
+      "value": "bavdhan"
+    },
+    {
+      "text": "- Bhugaon",
+      "value": "bhugaon"
+    },
+    {
+      "text": "- Bibwewadi",
+      "value": "bibwewadi"
+    },
+    {
+      "text": "- Boat Club Road",
+      "value": "boat-club-road"
+    },
+    {
+      "text": "- Chinchwad",
+      "value": "chinchwad"
+    },
+    {
+      "text": "- Dhanori",
+      "value": "dhanori"
+    },
+    {
+      "text": "- Empress County",
+      "value": "empress-county"
+    },
+    {
+      "text": "- Erandwane",
+      "value": "erandwane"
+    },
+    {
+      "text": "- H A D A P S A R A N N E X E",
+      "value": "h-a-d-a-p-s-a-r-a-n-n-e-x-e"
+    },
+    {
+      "text": "- Hadapsar",
+      "value": "hadapsar"
+    },
+    {
+      "text": "- Handewadi",
+      "value": "handewadi"
+    },
+    {
+      "text": "- Hinjewadi Road",
+      "value": "hinjewadi-road"
+    },
+    {
+      "text": "- Hinjewadi, Pune",
+      "value": "hinjewadi-pune"
+    },
+    {
+      "text": "- Jaydeo Nagar",
+      "value": "jaydeo-nagar"
+    },
+    {
+      "text": "- Katraj Kondhwa Road",
+      "value": "katraj-kondhwa-road"
+    },
+    {
+      "text": "- Keshav Nagar",
+      "value": "keshav-nagar"
+    },
+    {
+      "text": "- Kharadi",
+      "value": "kharadi"
+    },
+    {
+      "text": "- Kharadi Central, Pune",
+      "value": "kharadi-central-pune"
+    },
+    {
+      "text": "- Kharadi, Pune",
+      "value": "kharadi-pune"
+    },
+    {
+      "text": "- Khed Shivapur",
+      "value": "khed-shivapur"
+    },
+    {
+      "text": "- Kiwale Mamurdi Road",
+      "value": "kiwale-mamurdi-road"
+    },
+    {
+      "text": "- Kondhwa",
+      "value": "kondhwa"
+    },
+    {
+      "text": "- Koregaon Park",
+      "value": "koregaon-park"
+    },
+    {
+      "text": "- Kothrud",
+      "value": "kothrud"
+    },
+    {
+      "text": "- Magarpatta",
+      "value": "magarpatta"
+    },
+    {
+      "text": "- Magarpatta Road",
+      "value": "magarpatta-road"
+    },
+    {
+      "text": "- Mahalunge",
+      "value": "mahalunge"
+    },
+    {
+      "text": "- Mahalunge, Pune",
+      "value": "mahalunge-pune"
+    },
+    {
+      "text": "- Mamurdi",
+      "value": "mamurdi"
+    },
+    {
+      "text": "- Manjari Khurd",
+      "value": "manjari-khurd"
+    },
+    {
+      "text": "- Manjri",
+      "value": "manjri"
+    },
+    {
+      "text": "- Mohammed Wadi",
+      "value": "mohammed-wadi"
+    },
+    {
+      "text": "- Moshi",
+      "value": "moshi"
+    },
+    {
+      "text": "- Mundhwa",
+      "value": "mundhwa"
+    },
+    {
+      "text": "- NIBM",
+      "value": "nibm"
+    },
+    {
+      "text": "- Padmavati",
+      "value": "padmavati"
+    },
+    {
+      "text": "- Pagmala, Chiplun",
+      "value": "pagmala-chiplun"
+    },
+    {
+      "text": "- Pimple Nilakh",
+      "value": "pimple-nilakh"
+    },
+    {
+      "text": "- Pimpri",
+      "value": "pimpri"
+    },
+    {
+      "text": "- Punawale, Pune",
+      "value": "punawale-pune"
+    },
+    {
+      "text": "- Shewalewadi",
+      "value": "shewalewadi"
+    },
+    {
+      "text": "- Shrivardhan",
+      "value": "shrivardhan"
+    },
+    {
+      "text": "- Swargate",
+      "value": "swargate"
+    },
+    {
+      "text": "- Talegaon",
+      "value": "talegaon"
+    },
+    {
+      "text": "- Tathawade",
+      "value": "tathawade"
+    },
+    {
+      "text": "- Undri",
+      "value": "undri"
+    },
+    {
+      "text": "- Wadgaon Sheri",
+      "value": "wadgaon-sheri"
+    },
+    {
+      "text": "- Wagholi",
+      "value": "wagholi"
+    },
+    {
+      "text": "- Wakad",
+      "value": "wakad"
+    },
+    {
+      "text": "Rajendra Nagar",
+      "value": "rajendra-nagar"
+    }
+  ],
+  "types": [
+    {
+      "text": "Apartment",
+      "value": "apartment"
+    },
+    {
+      "text": "Condominium",
+      "value": "condominium"
+    },
+    {
+      "text": "Plots",
+      "value": "plots"
+    },
+    {
+      "text": "Shop",
+      "value": "shop"
+    },
+    {
+      "text": "Single Family",
+      "value": "single-family"
+    },
+    {
+      "text": "Villa",
+      "value": "villa"
+    }
+  ],
+  "beds": [
+    {
+      "text": "1",
+      "value": "1"
+    },
+    {
+      "text": "2",
+      "value": "2"
+    },
+    {
+      "text": "3",
+      "value": "3"
+    },
+    {
+      "text": "4",
+      "value": "4"
+    },
+    {
+      "text": "5",
+      "value": "5"
+    },
+    {
+      "text": "6",
+      "value": "6"
+    }
+  ],
+  "baths": [
+    {
+      "text": "1",
+      "value": "1"
+    },
+    {
+      "text": "2",
+      "value": "2"
+    },
+    {
+      "text": "3",
+      "value": "3"
+    },
+    {
+      "text": "4",
+      "value": "4"
+    },
+    {
+      "text": "5",
+      "value": "5"
+    }
+  ],
+  "budgets": [
+    {
+      "text": "₹5,000,000",
+      "value": "5000000"
+    },
+    {
+      "text": "₹10,000,000",
+      "value": "10000000"
+    },
+    {
+      "text": "₹15,000,000",
+      "value": "15000000"
+    },
+    {
+      "text": "₹20,000,000",
+      "value": "20000000"
+    },
+    {
+      "text": "₹25,000,000",
+      "value": "25000000"
+    },
+    {
+      "text": "₹30,000,000",
+      "value": "30000000"
+    },
+    {
+      "text": "₹35,000,000",
+      "value": "35000000"
+    },
+    {
+      "text": "₹40,000,000",
+      "value": "40000000"
+    },
+    {
+      "text": "₹45,000,000",
+      "value": "45000000"
+    },
+    {
+      "text": "₹50,000,000",
+      "value": "50000000"
+    }
+  ]
+}

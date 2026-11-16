@@ -1,0 +1,815 @@
+{
+  "sobha-sacred-grove-by-the-lake": {
+    "src": "/images/projects/sobha-sacred-grove-by-the-lake.jpg",
+    "projectName": "SACRED GROVE BY THE LAKE",
+    "pageUrl": "https://www.sobha.com/bengaluru/sacred-grove-by-the-lake/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2026/09/sacred-grove-banner-mobile.jpg",
+    "description": "SACRED GROVE BY THE LAKE \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-oneworld": {
+    "src": "/images/projects/sobha-sobha-oneworld.jpg",
+    "projectName": "SOBHA ONEWORLD",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-oneworld-greater-whitefield/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2026/03/bangalore_sobha_oneworld_mobile_banner_citypage.webp",
+    "description": "SOBHA ONEWORLD \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-altair": {
+    "src": "/images/projects/sobha-sobha-altair.jpg",
+    "projectName": "SOBHA ALTAIR",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-altair/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2026/01/Elevation-Evening-View.webp",
+    "description": "SOBHA ALTAIR \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-townpark": {
+    "src": "/images/projects/sobha-sobha-townpark.jpg",
+    "projectName": "SOBHA TOWNPARK",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-townpark/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2025/01/sobha-townpark.webp",
+    "description": "SOBHA TOWNPARK \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-chartered-birdsong": {
+    "src": "/images/projects/sobha-chartered-birdsong.jpg",
+    "projectName": "CHARTERED BIRDSONG",
+    "pageUrl": "https://www.sobha.com/bengaluru/chartered-birdsong/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2026/09/chartered_birdsong_mobile.jpg",
+    "description": "CHARTERED BIRDSONG \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-neopolis": {
+    "src": "/images/projects/sobha-sobha-neopolis.jpg",
+    "projectName": "SOBHA NEOPOLIS",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-neopolis-apartments-in-panathur/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2023/09/elevation-night-view.webp",
+    "description": "SOBHA NEOPOLIS \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-ayana": {
+    "src": "/images/projects/sobha-sobha-ayana.jpg",
+    "projectName": "SOBHA AYANA",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-ayana-panathur-road/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2024/11/sobha-ayana-building.webp",
+    "description": "SOBHA AYANA \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-infinia": {
+    "src": "/images/projects/sobha-sobha-infinia.jpg",
+    "projectName": "SOBHA INFINIA",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-infinia/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2024/08/sobha-infinia.webp",
+    "description": "SOBHA INFINIA \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-magnus": {
+    "src": "/images/projects/sobha-sobha-magnus.jpg",
+    "projectName": "SOBHA MAGNUS",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-magnus/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2025/09/ELEVATION-2.webp",
+    "description": "SOBHA MAGNUS \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-galera": {
+    "src": "/images/projects/sobha-sobha-galera.jpg",
+    "projectName": "SOBHA GALERA",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-galera-near-kannamangala/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2023/01/SOBHA-Galera-featured_1.webp",
+    "description": "SOBHA GALERA \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-valley-view": {
+    "src": "/images/projects/sobha-sobha-valley-view.jpg",
+    "projectName": "SOBHA VALLEY VIEW",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-valley-view/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2023/12/SOBHA_ValleyView-500_1.webp",
+    "description": "SOBHA VALLEY VIEW \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-insignia": {
+    "src": "/images/projects/sobha-sobha-insignia.jpg",
+    "projectName": "SOBHA INSIGNIA",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-insignia/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2022/09/Insignia-elevation-night-view-e1782293324267.webp",
+    "description": "SOBHA INSIGNIA \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-oakshire": {
+    "src": "/images/projects/sobha-sobha-oakshire.jpg",
+    "projectName": "SOBHA OAKSHIRE",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-oakshire-devanahalli-bengaluru/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2023/03/SOBHA-OAKSHIRE-Featured.webp",
+    "description": "SOBHA OAKSHIRE \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-dream-gardens": {
+    "src": "/images/projects/sobha-sobha-dream-gardens.jpg",
+    "projectName": "SOBHA DREAM GARDENS",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-dream-gardens/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2020/09/dream-gardens.webp",
+    "description": "SOBHA DREAM GARDENS \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-victoria-park-apartments": {
+    "src": "/images/projects/sobha-sobha-victoria-park-apartments.jpg",
+    "projectName": "SOBHA VICTORIA PARK \u2013 APARTMENTS",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-victoria-park/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2022/04/CITY-PAGE-500X500-5.webp",
+    "description": "SOBHA VICTORIA PARK \u2013 APARTMENTS \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-athena": {
+    "src": "/images/projects/sobha-sobha-athena.jpg",
+    "projectName": "SOBHA ATHENA",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-athena/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2021/03/Athena-500x500-05.webp",
+    "description": "SOBHA ATHENA \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-chartered-windsong-phase-2": {
+    "src": "/images/projects/sobha-chartered-windsong-phase-2.jpg",
+    "projectName": "Chartered Windsong Phase 2",
+    "pageUrl": "https://www.sobha.com/bengaluru/chartered-windsong-phase-2/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2022/08/Chartered_Windsong_Featured.webp",
+    "description": "Chartered Windsong Phase 2 \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-palm-court": {
+    "src": "/images/projects/sobha-sobha-palm-court.jpg",
+    "projectName": "SOBHA PALM COURT",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-palm-court/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2021/01/sobha-palm-court-1.webp",
+    "description": "SOBHA PALM COURT \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-lifestyle-legacy": {
+    "src": "/images/projects/sobha-sobha-lifestyle-legacy.jpg",
+    "projectName": "SOBHA LIFESTYLE LEGACY",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-lifestyle-legacy/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2020/09/0009_elevation-Project-1.webp",
+    "description": "SOBHA Lifestyle Legacy Building View",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-victoria-park-row-houses": {
+    "src": "/images/projects/sobha-sobha-victoria-park-row-houses.jpg",
+    "projectName": "SOBHA VICTORIA PARK \u2013 ROW HOUSES",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-victoria-park-row-houses/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2022/04/cityPage-500x500-rowhouse.webp",
+    "description": "SOBHA VICTORIA PARK \u2013 ROW HOUSES \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-chartered-woodpecker": {
+    "src": "/images/projects/sobha-chartered-woodpecker.jpg",
+    "projectName": "Chartered Woodpecker",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-woodpecker-plots/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2021/01/SOBHA-Woodpecker-Plots-Devanahalli.webp",
+    "description": "Chartered Woodpecker \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-sentosa": {
+    "src": "/images/projects/sobha-sobha-sentosa.jpg",
+    "projectName": "SOBHA SENTOSA",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-sentosa/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2022/03/Project-Image.webp",
+    "description": "SOBHA SENTOSA \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-windsor": {
+    "src": "/images/projects/sobha-sobha-windsor.jpg",
+    "projectName": "SOBHA WINDSOR",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-windsor-apartments-in-whitefield/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2021/03/Windsor-500x500-02.webp",
+    "description": "SOBHA WINDSOR \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-dream-acres": {
+    "src": "/images/projects/sobha-sobha-dream-acres.jpg",
+    "projectName": "SOBHA DREAM ACRES",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-dream-acres/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2020/09/Dreamacres6.webp",
+    "description": "SOBHA DREAM ACRES \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-lake-gardens": {
+    "src": "/images/projects/sobha-sobha-lake-gardens.jpg",
+    "projectName": "SOBHA LAKE GARDENS",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-lake-gardens/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2020/09/SOBHA-LAKE-GARDENS.webp",
+    "description": "SOBHA LAKE GARDENS \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-royal-pavilion": {
+    "src": "/images/projects/sobha-sobha-royal-pavilion.jpg",
+    "projectName": "SOBHA ROYAL PAVILION",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-royal-pavilion/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2021/03/RoyalPavilion-500x500-04.webp",
+    "description": "SOBHA ROYAL PAVILION \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-royal-crest": {
+    "src": "/images/projects/sobha-sobha-royal-crest.jpg",
+    "projectName": "SOBHA ROYAL CREST",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-royal-crest/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2022/06/Sobha-Royal-Crest.webp",
+    "description": "SOBHA ROYAL CREST \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-manhattan-towers-townpark": {
+    "src": "/images/projects/sobha-sobha-manhattan-towers-townpark.jpg",
+    "projectName": "SOBHA MANHATTAN TOWERS \u2013 TOWNPARK",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-manhattan-towers-town-park/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2021/05/SOBHA-TownPark-Elevation.webp",
+    "description": "SOBHA Manhattan Towers \u2013 Townpark Building View- 3 BHK Luxury Apartment in Electronic City",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-brooklyn-towers-townpark": {
+    "src": "/images/projects/sobha-sobha-brooklyn-towers-townpark.jpg",
+    "projectName": "SOBHA BROOKLYN TOWERS \u2013 TOWNPARK",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-brooklyn-towers-town-park/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2022/10/Brooklyn_newTower_City_Thumb.webp",
+    "description": "SOBHA BROOKLYN TOWERS \u2013 TOWNPARK \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-arena": {
+    "src": "/images/projects/sobha-sobha-arena.jpg",
+    "projectName": "SOBHA ARENA",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-arena/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2020/09/SOBHA-ARENA.webp",
+    "description": "SOBHA ARENA \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-clovelly": {
+    "src": "/images/projects/sobha-sobha-clovelly.jpg",
+    "projectName": "SOBHA CLOVELLY",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-clovelly/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2020/09/SOBHA-CLOVELLY.webp",
+    "description": "SOBHA CLOVELLY \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-rajvilas": {
+    "src": "/images/projects/sobha-sobha-rajvilas.jpg",
+    "projectName": "SOBHA RAJVILAS",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-rajvilas/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2020/09/rajvilas-1.webp",
+    "description": "SOBHA RAJVILAS \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "sobha-sobha-25-richmond": {
+    "src": "/images/projects/sobha-sobha-25-richmond.jpg",
+    "projectName": "SOBHA 25 RICHMOND",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-25-richmond/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2020/09/Sobha-25-Richmond_Mobile-Banner-Elevation-shot-Exterior-.webp",
+    "description": "SOBHA 25 RICHMOND Building View",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-trees-tandem": {
+    "src": "/images/projects/assetz-trees-tandem.jpg",
+    "projectName": "Trees & Tandem",
+    "pageUrl": "https://www.assetzproperty.com/treesandtandem",
+    "imageUrl": "https://assetzproperty-222d9.kxcdn.com/treesandtandem/opengraph-image.png",
+    "description": "Trees & Tandem \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-22-crest": {
+    "src": "/images/projects/assetz-22-crest.jpg",
+    "projectName": "22 & Crest",
+    "pageUrl": "https://www.assetzproperty.com/22andcrest/",
+    "imageUrl": "https://www.assetzproperty.com/22andcrest/wp-content/uploads/2022/08/homepage-banner.jpg",
+    "description": "22 & Crest \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-sora-saki": {
+    "src": "/images/projects/assetz-sora-saki.jpg",
+    "projectName": "Sora & Saki",
+    "pageUrl": "https://www.assetzproperty.com/soraandsaki/",
+    "imageUrl": "https://assetzproperty-222d9.kxcdn.com/soraandsaki/wp-content/uploads/2024/07/HD-KIADB-Entry-portal-scaled.jpg",
+    "description": "Sora & Saki \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-soho-sky": {
+    "src": "/images/projects/assetz-soho-sky.jpg",
+    "projectName": "Soho & Sky",
+    "pageUrl": "https://www.assetzproperty.com/sohoandsky/",
+    "imageUrl": "https://www.assetzproperty.com/sohoandsky/wp-content/themes/sohosky/assets/images/home/bannertwo.png",
+    "description": "Banner",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-marq-3a-and-marq-3b": {
+    "src": "/images/projects/assetz-marq-3a-and-marq-3b.jpg",
+    "projectName": "Marq 3A and Marq 3B",
+    "pageUrl": "https://www.assetzproperty.com/marq/",
+    "imageUrl": "https://assetzproperty.com/marq/wp-content/uploads/2018/12/Green-spaces-homepage-gallery.jpg",
+    "description": "marq-eco-friendly-villas-in-bangalore",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-sun-sanctum-phase-1": {
+    "src": "/images/projects/assetz-sun-sanctum-phase-1.jpg",
+    "projectName": "Sun & Sanctum Phase 1",
+    "pageUrl": "https://www.assetzproperty.com/sunandsanctum/",
+    "imageUrl": "https://www.assetzproperty.com/sunandsanctum/wp-content/themes/assetz/images/mobile/homebannerfirstnew.png",
+    "description": "Sun & Sanctum Phase 1 \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-sun-sanctum-phase-2": {
+    "src": "/images/projects/assetz-sun-sanctum-phase-2.jpg",
+    "projectName": "Sun & Sanctum Phase 2",
+    "pageUrl": "https://www.assetzproperty.com/sunandsanctum/",
+    "imageUrl": "https://www.assetzproperty.com/sunandsanctum/wp-content/themes/assetz/images/mobile/homebannerfirstnew.png",
+    "description": "Sun & Sanctum Phase 2 \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-earth-essence": {
+    "src": "/images/projects/assetz-earth-essence.jpg",
+    "projectName": "Earth & Essence",
+    "pageUrl": "https://www.assetzproperty.com/earthandessence/",
+    "imageUrl": "https://www.assetzproperty.com/earthandessence/assets/images/newpages/home_image1.jpg",
+    "description": "Earth & Essence \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-soul-soil": {
+    "src": "/images/projects/assetz-soul-soil.jpg",
+    "projectName": "Soul & Soil",
+    "pageUrl": "https://www.assetzproperty.com/soulandsoil/",
+    "imageUrl": "https://www.assetzproperty.com/soulandsoil/assets/images/home_banner.jpg",
+    "description": "Soul & Soil Home Banner",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-marq-2a-and-2b": {
+    "src": "/images/projects/assetz-marq-2a-and-2b.jpg",
+    "projectName": "Marq 2A and 2B",
+    "pageUrl": "https://www.assetzproperty.com/marq/",
+    "imageUrl": "https://assetzproperty.com/marq/wp-content/uploads/2018/12/Green-spaces-homepage-gallery.jpg",
+    "description": "marq-eco-friendly-villas-in-bangalore",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-38-banyan": {
+    "src": "/images/projects/assetz-38-banyan.jpg",
+    "projectName": "38 & Banyan",
+    "pageUrl": "https://www.assetzproperty.com/38andbanyan/",
+    "imageUrl": "https://www.assetzproperty.com/38andbanyan/assets/images_bk/home/home.jpg",
+    "description": "38 & BANYAN",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-here-now": {
+    "src": "/images/projects/assetz-here-now.jpg",
+    "projectName": "Here & Now",
+    "pageUrl": "https://www.assetzproperty.com/hereandnow/",
+    "imageUrl": "https://www.assetzproperty.com/hereandnow/assets/img/homepage/homepage_image.png",
+    "description": "Home Banner",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-marq-1": {
+    "src": "/images/projects/assetz-marq-1.jpg",
+    "projectName": "Marq 1",
+    "pageUrl": "https://www.assetzproperty.com/marq/",
+    "imageUrl": "https://assetzproperty.com/marq/wp-content/uploads/2018/12/Green-spaces-homepage-gallery.jpg",
+    "description": "marq-eco-friendly-villas-in-bangalore",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-east-point": {
+    "src": "/images/projects/assetz-east-point.jpg",
+    "projectName": "East Point",
+    "pageUrl": "https://www.assetzproperty.com/eastpoint/",
+    "imageUrl": "https://www.assetzproperty.com/eastpoint/images/page-bg-sky-garden.jpg",
+    "description": "Buy apartments near Marathahalli",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-lumos": {
+    "src": "/images/projects/assetz-lumos.jpg",
+    "projectName": "Lumos",
+    "pageUrl": "https://www.assetzproperty.com/lumos/",
+    "imageUrl": "https://www.assetzproperty.com/lumos/assets/images/img02.jpg",
+    "description": "Lumos \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-63-degree-east": {
+    "src": "/images/projects/assetz-63-degree-east.jpg",
+    "projectName": "63 Degree East",
+    "pageUrl": "https://www.assetzproperty.com/63east/",
+    "imageUrl": "https://www.assetzproperty.com/63east/assets/images/home_bg.jpg",
+    "description": "Assetz 63\u02da East Project, Sarjapur Road",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-bloom-dell": {
+    "src": "/images/projects/assetz-bloom-dell.jpg",
+    "projectName": "Bloom & Dell",
+    "pageUrl": "https://www.assetzproperty.com/bloomanddell/",
+    "imageUrl": "https://www.assetzproperty.com/bloomanddell/wp-content/uploads/2023/03/desktop-banner-1.png",
+    "description": "Bloom & Dell \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-vrindavan-tech-village": {
+    "src": "/images/projects/assetz-vrindavan-tech-village.jpg",
+    "projectName": "Vrindavan Tech Village",
+    "pageUrl": "https://www.assetzproperty.com/commercial",
+    "imageUrl": "https://assetzproperty-222d9.kxcdn.com/assets/frontend/img/vrindavantechPark.jpg",
+    "description": "Vrindavan Tech Village \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "puravankara-purva-heritage": {
+    "src": "/images/projects/puravankara-purva-heritage.jpg",
+    "projectName": "Purva Heritage",
+    "pageUrl": "https://www.puravankara.com/residential/bengaluru/purva-heritage",
+    "imageUrl": "https://www.puravankara.com/uploads/Desktop_(5).jpg",
+    "description": "flats in kudlu gate",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "puravankara-purva-orient-grand": {
+    "src": "/images/projects/puravankara-purva-orient-grand.jpg",
+    "projectName": "Purva Orient Grand",
+    "pageUrl": "https://www.puravankara.com/residential/bengaluru/purva-orient-grand",
+    "imageUrl": "https://www.puravankara.com/uploads/Orient_Grand_0cc64c4f54.jpg",
+    "description": "Luxury Apartments in Lalbagh Road",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "provident-housing-provident-botanico": {
+    "src": "/images/projects/provident-housing-provident-botanico.jpg",
+    "projectName": "Provident Botanico",
+    "pageUrl": "https://www.providenthousing.com/projects/bangalore/provident-botanico/",
+    "imageUrl": "https://www.providenthousing.com/wp-content/uploads/2026/07/botanico-2-200.webp",
+    "description": "Apartment Banner",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "provident-housing-provident-sunworth-city": {
+    "src": "/images/projects/provident-housing-provident-sunworth-city.jpg",
+    "projectName": "Provident Sunworth City",
+    "pageUrl": "https://www.providenthousing.com/projects/bangalore/provident-sunworth-city/",
+    "imageUrl": "https://www.providenthousing.com/wp-content/uploads/2022/12/sunworth-city-d.webp",
+    "description": "Apartment Banner",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "provident-housing-provident-deansgate": {
+    "src": "/images/projects/provident-housing-provident-deansgate.jpg",
+    "projectName": "Provident Deansgate",
+    "pageUrl": "https://www.providenthousing.com/projects/bangalore/provident-deansgate/",
+    "imageUrl": "https://www.providenthousing.com/wp-content/uploads/2023/08/Deansgate-Web-banner-1600px-X-550px.webp",
+    "description": "Apartment Banner",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "provident-housing-provident-ecopolitan": {
+    "src": "/images/projects/provident-housing-provident-ecopolitan.jpg",
+    "projectName": "Provident Ecopolitan",
+    "pageUrl": "https://www.providenthousing.com/projects/bangalore/provident-ecopolitan/",
+    "imageUrl": "https://www.providenthousing.com/wp-content/uploads/2023/08/Ecopolitan_PP-LP_1600px-x-550px.webp",
+    "description": "Apartment Banner",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "provident-housing-solitaire-at-provident-park-square": {
+    "src": "/images/projects/provident-housing-solitaire-at-provident-park-square.jpg",
+    "projectName": "Solitaire at Provident Park Square",
+    "pageUrl": "https://www.providenthousing.com/projects/bangalore/provident-park-square-solitaire/",
+    "imageUrl": "https://www.providenthousing.com/wp-content/uploads/2024/02/PArk-Square-Thumbnail_1600px-x-700px-1536x672-1.webp",
+    "description": "Solitaire at Provident Park Square \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "provident-housing-provident-park-square": {
+    "src": "/images/projects/provident-housing-provident-park-square.jpg",
+    "projectName": "Provident Park Square",
+    "pageUrl": "https://www.providenthousing.com/projects/bangalore/provident-park-square-kanakapura-road/",
+    "imageUrl": "https://www.providenthousing.com/wp-content/uploads/2022/12/provident-parksquare-banner-1536x672-1.webp",
+    "description": "Provident Park Square \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "provident-housing-provident-capella": {
+    "src": "/images/projects/provident-housing-provident-capella.jpg",
+    "projectName": "Provident Capella",
+    "pageUrl": "https://www.providenthousing.com/projects/bangalore/provident-capella-whitefield/",
+    "imageUrl": "https://www.providenthousing.com/wp-content/uploads/2022/12/capella-banner-1536x676-1.webp",
+    "description": "Provident Capella \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "provident-housing-provident-toogoodhomes": {
+    "src": "/images/projects/provident-housing-provident-toogoodhomes.jpg",
+    "projectName": "Provident #TooGoodHomes",
+    "pageUrl": "https://www.providenthousing.com/projects/bangalore/toogoodhomes/",
+    "imageUrl": "https://www.providenthousing.com/wp-content/uploads/2022/12/toogoodhomes-banner-1-1536x676-1.webp",
+    "description": "Provident #TooGoodHomes \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "provident-housing-provident-welworth-city": {
+    "src": "/images/projects/provident-housing-provident-welworth-city.jpg",
+    "projectName": "Provident Welworth city",
+    "pageUrl": "https://www.providenthousing.com/projects/bangalore/provident-welworth-city-yelahanka/",
+    "imageUrl": "https://www.providenthousing.com/wp-content/uploads/2022/12/welworth-banner-1536x676-1.webp",
+    "description": "Provident Welworth city \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "provident-housing-provident-the-tree": {
+    "src": "/images/projects/provident-housing-provident-the-tree.jpg",
+    "projectName": "Provident The Tree",
+    "pageUrl": "https://www.providenthousing.com/projects/bangalore/the-tree-by-provident-off-magadi-main-road/",
+    "imageUrl": "https://www.providenthousing.com/wp-content/uploads/2022/12/the-tree-banner-1536x676-1.webp",
+    "description": "Provident The Tree \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "provident-housing-provident-equinox": {
+    "src": "/images/projects/provident-housing-provident-equinox.jpg",
+    "projectName": "Provident Equinox",
+    "pageUrl": "https://www.providenthousing.com/campaigns/equinox/",
+    "imageUrl": "https://www.providenthousing.com/campaigns/equinox/images/equinox-banner.jpg",
+    "description": "Provident Equinox \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "lodha-lodha-elanza": {
+    "src": "/images/projects/lodha-lodha-elanza.jpg",
+    "projectName": "Lodha Elanza",
+    "pageUrl": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-elanza-sarjapur-road",
+    "imageUrl": "https://www.lodhagroup.com/sites/default/files/projects/banner/2533154697_Lodha-Elenza_Spotlight-banner_1903x800%20%281%29.jpg",
+    "description": "Lodha Elanza - Luxury Residential Property in Sarjapur Road",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "lodha-lodha-azur": {
+    "src": "/images/projects/lodha-lodha-azur.jpg",
+    "projectName": "Lodha Azur",
+    "pageUrl": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-azur",
+    "imageUrl": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Azur_1903X800_0.jpg",
+    "description": "Lodha Azur \u2013 Residential Project in Banglore",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "lodha-lodha-haven": {
+    "src": "/images/projects/lodha-lodha-haven.jpg",
+    "projectName": "Lodha Haven",
+    "pageUrl": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-haven-hosa-road",
+    "imageUrl": "https://www.lodhagroup.com/sites/default/files/projects/banner/1987634783_Hosa-Road_website_1930%20x%20800_14.jpg",
+    "description": "Lodha Haven - Residential Property in Bangalore",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "lodha-lodha-mirabelle": {
+    "src": "/images/projects/lodha-lodha-mirabelle.jpg",
+    "projectName": "Lodha Mirabelle",
+    "pageUrl": "https://www.lodhagroup.com/projects/residential-property-in-bangalore/lodha-mirabelle",
+    "imageUrl": "https://www.lodhagroup.com/sites/default/files/projects/banner/Spotlight_Lodha-Mirabelle_1903X800.jpg",
+    "description": "Lodha Mirabelle - Luxury Residential Property in Bangalore",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "godrej-properties-godrej-woodscapes": {
+    "src": "/images/projects/godrej-properties-godrej-woodscapes.jpg",
+    "projectName": "Godrej Woodscapes",
+    "pageUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-woodscapes",
+    "imageUrl": "https://gplwebsitecdnblob.blob.core.windows.net/godrej-cdn/Images/79840bcf-e84e-43cb-8826-783a7516a367.jpg",
+    "description": "Slider Image1",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "godrej-properties-godrej-lakeside-orchard": {
+    "src": "/images/projects/godrej-properties-godrej-lakeside-orchard.jpg",
+    "projectName": "Godrej Lakeside Orchard",
+    "pageUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-lakeside-orchard",
+    "imageUrl": "https://gplwebsitecdnblob.blob.core.windows.net/godrej-cdn/Images/706bd25a-8a89-4fdb-b7bf-0a11583b35dc.jpg",
+    "description": "Godrej Lakeside Orchard, Sarjapur Rd, Bangalore",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "godrej-properties-godrej-tiara": {
+    "src": "/images/projects/godrej-properties-godrej-tiara.jpg",
+    "projectName": "Godrej Tiara",
+    "pageUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-tiara",
+    "imageUrl": "https://gplwebsitecdnblob.blob.core.windows.net/godrej-cdn/Images/6fffc42e-53da-4122-8328-3fa8505eaf32-cmq6amn0o004zu8ph4y6k1ghw.webp",
+    "description": "Godrej Tiara Mobile Banner",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "godrej-properties-godrej-woods": {
+    "src": "/images/projects/godrej-properties-godrej-woods.jpg",
+    "projectName": "Godrej Woods",
+    "pageUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-woods-bengaluru",
+    "imageUrl": "https://gplwebsitecdnblob.blob.core.windows.net/godrej-cdn/Images/woods-overview-cmhlqt2go001og3j56l26dehm-cmimxt7pk0001naph1x9q0idy-cmpxpllya001elrphbbia7ajg.webp",
+    "description": "Main Banner Desktop",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "godrej-properties-aravya-estate": {
+    "src": "/images/projects/godrej-properties-aravya-estate.jpg",
+    "projectName": "Aravya Estate",
+    "pageUrl": "https://www.godrejproperties.com/bengaluru/plotted/aravya-estate",
+    "imageUrl": "https://gplwebsitecdnblob.blob.core.windows.net/godrej-cdn/Images/aravya-mob-banner-cmkl3oa85000527ph0o2bcwaf.webp",
+    "description": "Aravya Estate Mobile Banner",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "godrej-properties-godrej-parkshire": {
+    "src": "/images/projects/godrej-properties-godrej-parkshire.jpg",
+    "projectName": "Godrej Parkshire",
+    "pageUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-parkshire",
+    "imageUrl": "https://gplwebsitecdnblob.blob.core.windows.net/godrej-cdn/Images/web-banner-720x1600px-02-jpg-cmnmte35l000vmpph7egk3zs9-cmpkyks56000asvphc77ycg4q.webp",
+    "description": "High-rise residential apartments at Godrej Parkshire Bengaluru",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "godrej-properties-godrej-aveline": {
+    "src": "/images/projects/godrej-properties-godrej-aveline.jpg",
+    "projectName": "Godrej Aveline",
+    "pageUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-aveline",
+    "imageUrl": "https://gplwebsitecdnblob.blob.core.windows.net/godrej-cdn/Images/aveline-landing-page-final-720-x-1600-mobile-banner-image-cmmokk3g5000pv9phbg4vgzni.webp",
+    "description": "Godrej Aveline Mobile Banner1",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "godrej-properties-godrej-vanantara": {
+    "src": "/images/projects/godrej-properties-godrej-vanantara.jpg",
+    "projectName": "Godrej Vanantara",
+    "pageUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-vanantara",
+    "imageUrl": "https://gplwebsitecdnblob.blob.core.windows.net/godrej-cdn/Images/godrej-vanantara-landing-page-adapts-550-x-550-01-cmpmfgi3m000gmsor4zxu1sm4-cmpwahwo3000rlrph5jr2e2jb.webp",
+    "description": "Banner Mobile Vanantara ",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "godrej-properties-godrej-regent-park": {
+    "src": "/images/projects/godrej-properties-godrej-regent-park.jpg",
+    "projectName": "Godrej Regent Park",
+    "pageUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-regent-park",
+    "imageUrl": "https://gplwebsitecdnblob.blob.core.windows.net/godrej-cdn/Images/mobile-banner-image-720-x-1600-cms0e6ouh0001xfph3868fc4p.webp",
+    "description": "Mobile Banner",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "godrej-properties-godrej-ananda": {
+    "src": "/images/projects/godrej-properties-godrej-ananda.jpg",
+    "projectName": "Godrej Ananda",
+    "pageUrl": "https://www.godrejproperties.com/bangalore/residential/godrej-ananda/about",
+    "imageUrl": "https://www.godrejproperties.com/backoffice/data_content/projects/godrej_ananda_bangalore/microsite/banner_img/Banner-Image_1035x572.jpg",
+    "description": "Godrej Ananda \u2014 official project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "godrej-properties-godrej-woodland": {
+    "src": "/images/projects/godrej-properties-godrej-woodland.jpg",
+    "projectName": "Godrej Woodland",
+    "pageUrl": "https://www.godrejproperties.com/bengaluru/plotted/godrej-woodland",
+    "imageUrl": "https://gplwebsitecdnblob.blob.core.windows.net/godrej-cdn/Images/99c85f37-996c-454a-866c-059b600d207c-cmuzazv2a001u66pharxr7w13.webp",
+    "description": "Godrej Woodland Banner01",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-city-of-palms": {
+    "src": "/images/projects/assetz-city-of-palms.jpg",
+    "projectName": "City of Palms",
+    "pageUrl": "https://www.assetzproperty.com/cityofpalms/",
+    "imageUrl": "https://www.assetzproperty.com/cityofpalms/images/home-banner.webp",
+    "description": "Banner",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-12"
+  },
+  "assetz-mizumi-reserve": {
+    "src": "/images/projects/assetz-mizumi-reserve.webp",
+    "projectName": "Mizumi Reserve",
+    "pageUrl": "https://www.assetzproperty.com/mizumireserve/",
+    "imageUrl": "https://www.assetzproperty.com/mizumireserve/images/highlights/image1.webp",
+    "description": "Mizumi Reserve \u2014 official project rendering",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-13",
+    "position": "center"
+  },
+  "assetz-melodies-of-life-apartments": {
+    "src": "/images/projects/assetz-melodies-of-life-apartments.webp",
+    "projectName": "Melodies of Life Apartments",
+    "pageUrl": "https://www.assetzproperty.com/melodiesoflifeapartments/",
+    "imageUrl": "https://www.assetzproperty.com/melodiesoflifeapartments/images/lake%20side%20view_Extended%20Sky.webp",
+    "description": "Melodies of Life Apartments \u2014 official project rendering",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-13",
+    "position": "center bottom"
+  },
+  "assetz-meru-meadow": {
+    "src": "/images/projects/assetz-meru-meadow.webp",
+    "projectName": "Meru & Meadow",
+    "pageUrl": "https://www.assetzproperty.com/meruandmeadow/",
+    "imageUrl": "https://www.assetzproperty.com/meruandmeadow/images/project-overview.webp",
+    "description": "Meru & Meadow \u2014 official project rendering",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-13",
+    "position": "center"
+  },
+  "sobha-sobha-hrc-pristine": {
+    "src": "/images/projects/sobha-sobha-hrc-pristine.webp",
+    "projectName": "SOBHA HRC PRISTINE",
+    "pageUrl": "https://www.sobha.com/bengaluru/sobha-hrc-pristine/",
+    "imageUrl": "https://www.sobha.com/wp-content/uploads/2021/01/hrc-pristane-1.webp",
+    "description": "SOBHA HRC PRISTINE \u2014 source-published project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-13"
+  },
+  "godrej-properties-barca-at-godrej-msr-city": {
+    "src": "/images/projects/godrej-properties-barca-at-godrej-msr-city.webp",
+    "projectName": "Barca at Godrej MSR City",
+    "pageUrl": "https://www.godrejproperties.com/bengaluru/residential/barca-at-godrej-msr-city",
+    "imageUrl": "https://www.godrejproperties.com/_next/image?url=https%3A%2F%2Fgplwebsitecdnblob.blob.core.windows.net%2Fgodrej-cdn%2FImages%2F209832b2-b1c2-431a-b2f5-9a51fb780ae4-cmq6iekit0086u8ph7k8u6nqi.webp&w=1920&q=75",
+    "description": "Barca at Godrej MSR City \u2014 source-published project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-13"
+  },
+  "casatrance-skanda-aura": {
+    "src": "/images/projects/casatrance-skanda-aura.webp",
+    "projectName": "Skanda Aura",
+    "pageUrl": "https://www.casatrance.com/projects/skanda-aura",
+    "imageUrl": "https://www.casatrance.com/uploads/projects/side-elevations-02-jpg-copy-1782549577367.webp",
+    "description": "Skanda Aura \u2014 source-published project visual",
+    "kind": "source-published visual",
+    "retrievedOn": "2026-11-13"
+  },
+  "assetz-zen-sato": {
+    "src": "/images/projects/assetz-zen-sato.webp",
+    "projectName": "Zen & Sato",
+    "pageUrl": "https://www.assetzproperty.com/zenandsato",
+    "imageUrl": "https://www.assetzproperty.com/zenandsato/images/banner-bg.webp",
+    "description": "Zen & Sato \u2014 source-published project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-13"
+  },
+  "assetz-codename-sublime": {
+    "src": "/images/projects/assetz-codename-sublime.webp",
+    "projectName": "Codename Sublime",
+    "pageUrl": "https://www.assetzproperty.com/codenamesublime/",
+    "imageUrl": "https://www.assetzproperty.com/codenamesublime/images/highlights/260409_HOSKOTE_ASSET_FACADE_8K.webp",
+    "description": "Codename Sublime \u2014 source-published project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-13"
+  },
+  "assetz-mizu-ki": {
+    "src": "/images/projects/assetz-mizu-ki.webp",
+    "projectName": "Mizu & Ki",
+    "pageUrl": "https://www.assetzproperty.com/mizuandki/",
+    "imageUrl": "https://www.assetzproperty.com/mizuandki/images/project-overview.webp",
+    "description": "Mizu & Ki \u2014 source-published project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-13"
+  },
+  "assetz-miru-miyo": {
+    "src": "/images/projects/assetz-miru-miyo.webp",
+    "projectName": "Miru & Miyo",
+    "pageUrl": "https://www.assetzproperty.com/miruandmiyo/",
+    "imageUrl": "https://www.assetzproperty.com/miruandmiyo/Images/Project-Overview/Overview.webp",
+    "description": "Miru & Miyo \u2014 source-published project visual",
+    "kind": "builder-published visual",
+    "retrievedOn": "2026-11-13"
+  }
+}

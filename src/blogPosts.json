@@ -1,0 +1,74 @@
+[
+  {
+    "url": "/blogs/brigade-horizon/",
+    "title": "Brigade Horizon: a buyer’s guide",
+    "image": "/images/placeholders/apartments.jpg",
+    "excerpt": "Explore Brigade Horizon with a practical guide to location, home layouts, purchase costs and site-visit questions",
+    "name": "Brigade Horizon",
+    "imagePosition": "25% center",
+    "imageKind": "illustrative"
+  },
+  {
+    "url": "/blogs/sumadhura-sarang/",
+    "title": "Sumadhura Sarang: a buyer’s guide",
+    "image": "/images/placeholders/apartments.jpg",
+    "excerpt": "Explore Sumadhura Sarang with a practical guide to location, home layouts, purchase costs and site-visit questions",
+    "name": "Sumadhura Sarang",
+    "imagePosition": "center",
+    "imageKind": "illustrative"
+  },
+  {
+    "url": "/blogs/vj-yashwin-urbo-centro/",
+    "title": "VJ Yashwin Urbo Centro: a buyer’s guide",
+    "image": "/images/placeholders/apartments.jpg",
+    "excerpt": "Explore VJ Yashwin Urbo Centro with a practical guide to location, home layouts, purchase costs and site-visit questions",
+    "name": "VJ Yashwin Urbo Centro",
+    "imagePosition": "75% center",
+    "imageKind": "illustrative"
+  },
+  {
+    "url": "/blogs/brigade-atmosphere/",
+    "title": "Brigade Atmosphere: a buyer’s guide",
+    "image": "/images/placeholders/villa.jpg",
+    "excerpt": "Explore Brigade Atmosphere with a practical guide to location, home layouts, purchase costs and site-visit questions",
+    "name": "Brigade Atmosphere",
+    "imagePosition": "25% center",
+    "imageKind": "illustrative"
+  },
+  {
+    "url": "/blogs/lodha-panache/",
+    "title": "Lodha Panache: a buyer’s guide",
+    "image": "/images/placeholders/apartments.jpg",
+    "excerpt": "Explore Lodha Panache with a practical guide to location, home layouts, purchase costs and site-visit questions",
+    "name": "Lodha Panache",
+    "imagePosition": "center",
+    "imageKind": "illustrative"
+  },
+  {
+    "url": "/blogs/godrej-evergreen-square/",
+    "title": "Godrej Evergreen Square: a buyer’s guide",
+    "image": "/images/placeholders/apartments.jpg",
+    "excerpt": "Explore Godrej Evergreen Square with a practical guide to location, home layouts, purchase costs and site-visit questions",
+    "name": "Godrej Evergreen Square",
+    "imagePosition": "75% center",
+    "imageKind": "illustrative"
+  },
+  {
+    "url": "/blogs/kolte-patil-life-republic/",
+    "title": "Kolte Patil Life Republic: a buyer’s guide",
+    "image": "/images/placeholders/apartments.jpg",
+    "excerpt": "Explore Kolte Patil Life Republic with a practical guide to location, home layouts, purchase costs and site-visit questions",
+    "name": "Kolte Patil Life Republic",
+    "imagePosition": "25% center",
+    "imageKind": "illustrative"
+  },
+  {
+    "url": "/blogs/kumar-megapolis/",
+    "title": "Kumar Megapolis: a buyer’s guide",
+    "image": "/images/placeholders/apartments.jpg",
+    "excerpt": "Explore Kumar Megapolis with a practical guide to location, home layouts, purchase costs and site-visit questions",
+    "name": "Kumar Megapolis",
+    "imagePosition": "center",
+    "imageKind": "illustrative"
+  }
+]

@@ -1,0 +1,904 @@
+{
+  "checkedOn": "2026-11-13",
+  "totalVisibleProjects": 188,
+  "restoredProjects": 109,
+  "researchedRecords": 109,
+  "recordsWithAdditionalFields": 108,
+  "sourcedFieldValues": 585,
+  "newNumericPrices": 94,
+  "totalProjectsWithNumericPrices": 173,
+  "portfolioReferences": [
+    {
+      "id": "assetz-vrindavan-tech-village",
+      "name": "Vrindavan Tech Village",
+      "note": "Vrindavan Tech Village is now Embassy Tech Village. Historical commercial portfolio reference; not represented as available residential inventory."
+    },
+    {
+      "id": "assetz-assetz-house",
+      "name": "Assetz House",
+      "note": "Corporate office address, not a confirmed sale listing. Generic residential search results were excluded."
+    }
+  ],
+  "pricesRequiringConfirmation": [
+    {
+      "id": "sobha-sobha-eternia",
+      "name": "SOBHA ETERNIA",
+      "kind": "project",
+      "reason": "No reliably matched public numeric price; source lists price on request or its phase/scope is ambiguous."
+    },
+    {
+      "id": "sobha-sobha-elite",
+      "name": "SOBHA ELITE",
+      "kind": "project",
+      "reason": "No reliably matched public numeric price; source lists price on request or its phase/scope is ambiguous."
+    },
+    {
+      "id": "sobha-sobha-canvas",
+      "name": "SOBHA CANVAS",
+      "kind": "project",
+      "reason": "No reliably matched public numeric price; source lists price on request or its phase/scope is ambiguous."
+    },
+    {
+      "id": "sobha-sobha-suncrest",
+      "name": "SOBHA SUNCREST",
+      "kind": "project",
+      "reason": "No reliably matched public numeric price; source lists price on request or its phase/scope is ambiguous."
+    },
+    {
+      "id": "sobha-sobha-ivory",
+      "name": "SOBHA IVORY",
+      "kind": "project",
+      "reason": "No reliably matched public numeric price; source lists price on request or its phase/scope is ambiguous."
+    },
+    {
+      "id": "assetz-marq-3a-and-marq-3b",
+      "name": "Marq 3A and Marq 3B",
+      "kind": "project",
+      "reason": "Phase 3A-matched project source lists 3 and 4 BHK layouts; exact 3B pricing is not confirmed. Broader campus prices were excluded."
+    },
+    {
+      "id": "assetz-earth-essence",
+      "name": "Earth & Essence",
+      "kind": "project",
+      "reason": "Combined plots and row-house inventory; a row-house-only asking price was excluded to avoid pricing plots incorrectly."
+    },
+    {
+      "id": "assetz-soul-soil",
+      "name": "Soul & Soil",
+      "kind": "project",
+      "reason": "Row-house plans and unit-area range taken from the builder project page. Conflicting unrelated portal apartment listings and agent registration were not imported."
+    },
+    {
+      "id": "assetz-vrindavan-tech-village",
+      "name": "Vrindavan Tech Village",
+      "kind": "portfolio",
+      "reason": "Vrindavan Tech Village is now Embassy Tech Village. Historical commercial portfolio reference; not represented as available residential inventory."
+    },
+    {
+      "id": "assetz-assetz-house",
+      "name": "Assetz House",
+      "kind": "portfolio",
+      "reason": "Corporate office address, not a confirmed sale listing. Generic residential search results were excluded."
+    },
+    {
+      "id": "puravankara-purva-business-park",
+      "name": "Purva Business Park",
+      "kind": "project",
+      "reason": "Builder construction update confirms project address. No individual unit size or numeric sale price confirmed; lease quotations were excluded."
+    },
+    {
+      "id": "puravankara-purva-zentech",
+      "name": "Purva Zentech",
+      "kind": "project",
+      "reason": "Source-listed office-unit range; no publicly disclosed numeric sale price. Completion date is indicative and must be confirmed with the builder."
+    },
+    {
+      "id": "puravankara-purva-gainz",
+      "name": "Purva Gainz",
+      "kind": "project",
+      "reason": "Commercial development details; sale/lease pricing is quoted on request. Building area is kept separate from unit area."
+    },
+    {
+      "id": "lodha-lodha-beaumont-estate",
+      "name": "Lodha Beaumont Estate",
+      "kind": "project",
+      "reason": "Supplied type Plots corrected: matched registration ending 008829 is a residential apartment project. No reliable builder cost sheet was published, so no numeric price was invented."
+    },
+    {
+      "id": "lodha-lodha-whitefield",
+      "name": "Lodha Whitefield",
+      "kind": "project",
+      "reason": "Search result is missing, ambiguous or a different project/phase. No data copied."
+    }
+  ],
+  "remainingMissingFields": [
+    {
+      "id": "sobha-sobha-oneworld",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": false
+    },
+    {
+      "id": "sobha-sobha-townpark",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": false
+    },
+    {
+      "id": "sobha-sobha-insignia",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": false
+    },
+    {
+      "id": "sobha-sobha-oakshire",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-dream-gardens",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-victoria-park-apartments",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-athena",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-hrc-pristine",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-chartered-windsong-phase-2",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-palm-court",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-lifestyle-legacy",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-victoria-park-row-houses",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-chartered-woodpecker",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-sentosa",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-windsor",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-dream-acres",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-lake-gardens",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-royal-pavilion",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-royal-crest",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-manhattan-towers-townpark",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-brooklyn-towers-townpark",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-arena",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-clovelly",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-rajvilas",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-25-richmond",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-avenue-apartments",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-palladian",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-eternia",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-marvella",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-habitech",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-classic",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-lavender",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-daffodil",
+      "missing": [],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-iris",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-azalea",
+      "missing": [
+        "possessionDate",
+        "siteArea"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-dahlia",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-rose",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-indraprastha",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-garrison",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-elite",
+      "missing": [
+        "possessionDate",
+        "siteArea"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-ruby",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-ruby-platinum",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-city",
+      "missing": [
+        "possessionDate",
+        "siteArea"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-chrysanthemum",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-landscape",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-canvas",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-althea",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-petunia",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-moonstone",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-suncrest",
+      "missing": [],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-malachite-phase",
+      "missing": [
+        "possessionDate",
+        "totalUnits"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-heritage",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-forest-view",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-magnolia",
+      "missing": [],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-tulip",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-dewflower",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-forest-edge",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-morzaria-grandeur",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "sobha-sobha-ivory",
+      "missing": [
+        "possessionDate",
+        "siteArea"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-atmos-aura",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-marq-3a-and-marq-3b",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-sun-sanctum-phase-1",
+      "missing": [
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-sun-sanctum-phase-2",
+      "missing": [
+        "possessionDate",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-earth-essence",
+      "missing": [
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": false
+    },
+    {
+      "id": "assetz-soul-soil",
+      "missing": [
+        "possessionDate",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-marq-2a-and-2b",
+      "missing": [
+        "possessionDate",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-38-banyan",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-here-now",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-marq-1",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-east-point",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-stratos",
+      "missing": [
+        "possessionDate",
+        "siteArea"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-lumos",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-63-degree-east",
+      "missing": [
+        "sizeSqFt",
+        "possessionDate",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": false
+    },
+    {
+      "id": "assetz-bloom-dell",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-codename-sublime",
+      "missing": [
+        "possessionDate",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-vrindavan-tech-village",
+      "missing": [
+        "sizeSqFt",
+        "possessionDate",
+        "totalUnits"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "assetz-assetz-house",
+      "missing": [
+        "sizeSqFt",
+        "possessionDate",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "puravankara-purva-parkhill",
+      "missing": [
+        "possessionDate",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "puravankara-purva-zenium",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "puravankara-purva-celestial",
+      "missing": [
+        "possessionDate",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "puravankara-purva-business-park",
+      "missing": [
+        "sizeSqFt",
+        "possessionDate",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "puravankara-purva-zentech",
+      "missing": [
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "puravankara-purva-gainz",
+      "missing": [
+        "sizeSqFt",
+        "possessionDate",
+        "totalUnits"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "provident-housing-provident-equinox",
+      "missing": [
+        "sizeSqFt",
+        "possessionDate",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "provident-housing-provident-sundeck",
+      "missing": [
+        "sizeSqFt",
+        "possessionDate",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": false
+    },
+    {
+      "id": "lodha-lodha-beaumont-estate",
+      "missing": [
+        "sizeSqFt",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "lodha-lodha-whitefield",
+      "missing": [
+        "configuration",
+        "sizeSqFt",
+        "possessionDate",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": true,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "lodha-lodha-elanza",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "lodha-lodha-azur",
+      "missing": [
+        "siteArea"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "lodha-lodha-haven",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "lodha-lodha-mirabelle",
+      "missing": [
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "godrej-properties-godrej-tiara",
+      "missing": [
+        "sizeSqFt",
+        "possessionDate",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": false
+    },
+    {
+      "id": "godrej-properties-godrej-ananda",
+      "missing": [
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": false
+    },
+    {
+      "id": "godrej-properties-godrej-park-retreat",
+      "missing": [
+        "possessionDate",
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "godrej-properties-godrej-royale-woods",
+      "missing": [
+        "possessionDate"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "godrej-properties-godrej-splendour",
+      "missing": [],
+      "reraMissing": false,
+      "exactMapPinMissing": true
+    },
+    {
+      "id": "godrej-properties-godrej-woodland",
+      "missing": [
+        "siteArea",
+        "totalUnits"
+      ],
+      "reraMissing": false,
+      "exactMapPinMissing": false
+    }
+  ],
+  "corrections": [
+    {
+      "id": "sobha-sobha-victoria-park-row-houses",
+      "fields": {
+        "propertyType": {
+          "from": "Apartments",
+          "to": "Row houses",
+          "reason": "Dedicated builder row-house page and phase 2 registration match."
+        }
+      }
+    },
+    {
+      "id": "lodha-lodha-beaumont-estate",
+      "fields": {
+        "propertyType": {
+          "from": "Plots",
+          "to": "Apartments",
+          "reason": "Project and RERA match identify residential apartments."
+        }
+      }
+    }
+  ],
+  "sourcePolicy": "Builder project pages first, then project/phase-matched property portals. Supplied values preserved except explicit sourced corrections. No inferred numeric prices; sale/lease and whole-project/unit area kept distinct."
+}

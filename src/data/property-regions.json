@@ -1,0 +1,23 @@
+{
+  "convention": "Five broad property-search regions, not municipal ward boundaries. The southeast IT corridor is grouped with East; northwest Yeshwanthpur, Rajajinagar and Tumkur Road are grouped with West. Unclear or conflicting locations remain Uncategorized.",
+  "sources": [
+    "https://homesok.in/bangalore",
+    "https://assets.cushmanwakefield.com/-/media/cw/marketbeat-pdfs/2024/q4/apac-and-gc/india--bengaluru--residential-q4-2024-final.pdf?rev=2eb8df5afc17403da5287eda59341079",
+    "https://karnatakatourism.org/wp-content/uploads/2020/05/Bangalore-Map.pdf"
+  ],
+  "locations": {
+    "North Bangalore": [
+      "Rajanukunte, off Doddaballapur Road", "Off Bellary Road, Devanahalli, Bengaluru", "Off Thanisandra Main Road, Bengaluru", "Off Hennur Main Road, Bengaluru", "Thanisandra Main Road, Bengaluru", "Amruthahalli Main Road, Jakkur, Bengaluru", "Devanahalli", "Kogilu Main Road, Yelahanka, Bengaluru", "IVC Road, Devanahalli, Bengaluru", "Thanisandra", "Thanisandra Main Road", "Nagavara", "Bellary Road", "Yelahanka, North Bengaluru", "IVC Road, Devanahalli", "KIADB Aerospace, Bagalur", "Avathi, Devanahalli", "Jakkur Main Road, Hebbal", "Shettigere", "Off Hennur Road", "Behind Manyata Tech Park", "Aerospace & IT Park", "Yelahanka", "KIADB, Aerospace Park", "Thanisandra Road", "Hennur Road", "Yelahanka New Town", "RMV 2nd stage", "Hosahalli, Airport Road", "International Airport Road", "IVC Road, Bengaluru", "Aerospace Park, Bengaluru North", "Yelahanka-Doddaballapur Main Road, Bengaluru", "Sadahalli", "Near Manyata Tech Park", "North, Bengaluru", "THANISANDRA, Bengaluru", "Yelahanka, Bengaluru", "Aerospace Park, Bagalur", "Devanahalli Town", "Kannamangala Gate, Devanahalli"
+    ],
+    "South Bangalore": [
+      "Near Electronic City, Bengaluru", "Koramangala, Bengaluru", "Bannerghatta Main Road, Bengaluru", "Banashankari, Bengaluru", "Judicial Layout, Kanakapura Main Rd, Bengaluru", "Padmanabhanagar, Bengaluru", "Kanakapura Road", "Off HSR Layout", "Off Hosa Road", "Kanakapura Main Road", "Off Hosur Main Road, Begur", "Kudlu Gate", "Electronic City", "JP Nagar", "Off Bannerghatta Road", "Off Kanakapura Road", "Kudlu Gate, Hosur Road", "Somasundarapalya Main Road", "Bannerghatta Road", "Kanakapura Road, Bengaluru", "Hosa Road, HSR Extension", "Bannerghatta, Bengaluru", "HSR Layout", "Haralur Main Road"
+    ],
+    "East Bangalore": [
+      "Chikka Tirupathi, near STRR", "Greater Whitefield, Bengaluru", "Off Sarjapur Main Road, Bengaluru", "Panathur, Off Marathahalli-ORR, Bengaluru", "Bhoganahalli, Bengaluru", "Panathur Main Road, Bengaluru", "Whitefield, Bengaluru", "Panathur, Off Marathalli Road, Bengaluru", "KR Puram, Bengaluru", "Hadosiddapura, Sarjapur Road, Bengaluru", "Doddabanahalli, Kannamangala near Old Madras Road and Whitefield", "Old Airport Road, Marathahalli", "Bellandur, Bangalore", "Whitefield", "Off Sarjapur Road", "Marathahalli", "Bellandur", "Whitefield Main Road", "Off Hosa Road, Sarjapur", "Sarjapur-Attibele Road", "Off Whitefield Road", "Off KR Puram, TC Palya", "C. V. Raman Road", "C.V. Raman Nagar", "off.old Madras Road", "Sarjapur Road", "Soukya Road, Bengaluru", "Soukya Road, Whitefield, Bengaluru", "Whitefield, near Hope Farm", "Whitefield – Budigere Cross, Bengaluru", "Sarjapur Rd, Bengaluru", "Whitefield- Hoskote, Bengaluru", "Sarjapur, Bengaluru", "Off Soukya Road, Whitefield, Bengaluru", "Horamavu", "Belathur, Whitefield", "Old Madras Road, Hoskote", "Old Madras Road, opposite Orion Uptown Mall"
+    ],
+    "West Bangalore": [
+      "Rajaji Nagar, Bengaluru", "Rajajinagar", "Tumkur Main Road", "Nagasandra", "Off Chord Road, Yeswanthpur", "Yeshwanthpur", "Magadi Road", "Off Mysore Road, Bengaluru", "Off Magadi Road, Bengaluru", "Off Mysore Road", "Yeshwanthpur, Bengaluru"
+    ],
+    "Central Bangalore": ["Richmond Road, Bengaluru", "Cunningham Road", "Lalbagh Road"]
+  }
+}

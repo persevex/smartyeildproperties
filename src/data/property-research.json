@@ -1,0 +1,2709 @@
+{
+  "sobha-sacred-grove-by-the-lake": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1265/347/PR/020226/008445"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sacred-grove-by-the-lake/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.886201,
+      "longitude": 77.8169876,
+      "sourceUrl": "https://www.sobha.com/bengaluru/sacred-grove-by-the-lake/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "sobha-sobha-oneworld": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/304/PR/080526/008634",
+        "PRM/KA/RERA/1250/304/PR/080526/008635",
+        "PRM/KA/RERA/1250/304/PR/080526/008636",
+        "PRM/KA/RERA/1250/304/PR/080526/008637",
+        "PRM/KA/RERA/1250/304/PR/080526/008638",
+        "PRM/KA/RERA/1250/304/PR/080526/008639"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-oneworld-greater-whitefield/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 13.0580967,
+      "longitude": 77.7716732,
+      "sourceUrl": "https://www.sobha.com/bengaluru/sobha-oneworld-greater-whitefield/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "sobha-sobha-altair": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/070126/008388"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-altair/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.8994564,
+      "longitude": 77.7056742,
+      "sourceUrl": "https://www.sobha.com/bengaluru/sobha-altair/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "sobha-sobha-townpark": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/308/PR/230125/007418",
+        "PRM/KA/RERA/1251/308/PR/230125/007419",
+        "PRM/KA/RERA/1251/308/PR/230125/007420",
+        "PRM/KA/RERA/1251/308/PR/230125/007421"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-townpark/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.7866694,
+      "longitude": 77.7439034,
+      "sourceUrl": "https://www.sobha.com/bengaluru/sobha-townpark/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "sobha-chartered-birdsong": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/472/PR/210325/007605"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/chartered-birdsong/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 13.18957,
+      "longitude": 77.5708758,
+      "sourceUrl": "https://www.sobha.com/bengaluru/chartered-birdsong/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "sobha-sobha-neopolis": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/200923/006269",
+        "PRM/KA/RERA/1251/446/PR/200923/006270",
+        "PRM/KA/RERA/1251/446/PR/220923/006282",
+        "PRM/KA/RERA/1251/446/PR/220923/006283",
+        "PRM/KA/RERA/1251/446/PR/200923/006271"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-neopolis-apartments-in-panathur/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.9336121,
+      "longitude": 77.7167052,
+      "sourceUrl": "https://www.sobha.com/bengaluru/sobha-neopolis-apartments-in-panathur/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "sobha-sobha-ayana": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/030824/006958"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-ayana-panathur-road/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.9379414,
+      "longitude": 77.7262806,
+      "sourceUrl": "https://www.sobha.com/bengaluru/sobha-ayana-panathur-road/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "sobha-sobha-infinia": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/030824/006957",
+        "PRM/KA/RERA/1251/446/PR/030824/006956"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-infinia/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.9244771,
+      "longitude": 77.645432,
+      "sourceUrl": "https://www.sobha.com/bengaluru/sobha-infinia/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "sobha-sobha-magnus": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/131025/008160"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-magnus/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.8765271,
+      "longitude": 77.5881752,
+      "sourceUrl": "https://www.sobha.com/bengaluru/sobha-magnus/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "sobha-sobha-galera": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/050123/005601"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-galera-near-kannamangala/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 13.0538095,
+      "longitude": 77.7684993,
+      "sourceUrl": "https://www.sobha.com/bengaluru/sobha-galera-near-kannamangala/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "sobha-sobha-valley-view": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/170916/000117"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-valley-view/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.9314318,
+      "longitude": 77.528983,
+      "sourceUrl": "https://www.sobha.com/bengaluru/sobha-valley-view/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "sobha-sobha-insignia": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/030922/005212"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-insignia/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.9276092,
+      "longitude": 77.6949464,
+      "sourceUrl": "https://www.sobha.com/bengaluru/sobha-insignia/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "sobha-sobha-oakshire": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/303/PR/270323/005821",
+        "PRM/KA/RERA/1250/303/PR/270323/005822",
+        "PRM/KA/RERA/1250/303/PR/270323/005823"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-oakshire-devanahalli-bengaluru/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-dream-gardens": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/181122/002165",
+        "PRM/KA/RERA/1251/309/PR/190102/002269",
+        "PRM/KA/RERA/1251/309/PR/311222/005593",
+        "PRM/KA/RERA/1251/309/PR/311222/005592",
+        "PRM/KA/RERA/1251/309/PR/311222/005591"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-dream-gardens/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-victoria-park-apartments": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/310322/004800"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-victoria-park/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-athena": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/200526/003430"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-athena/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-hrc-pristine": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/171104/002276",
+        "PRM/KA/RERA/1251/309/PR/171104/002270",
+        "PRM/KA/RERA/1251/309/PR/171104/002268",
+        "PRM/KA/RERA/1251/309/PR/171104/002267"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-hrc-pristine/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-chartered-windsong-phase-2": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/303/PR/060822/005138"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/chartered-windsong-phase-2/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-palm-court": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/170915/000164"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-palm-court/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-lifestyle-legacy": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/303/PR/171014/000106"
+      ],
+      "sources": [
+        "https://sobhaltd.in/lifestyle-legacy"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-victoria-park-row-houses": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/310322/004801"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-victoria-park-row-houses/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-chartered-woodpecker": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/303/PR/190614/002605"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-woodpecker-plots/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-sentosa": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/310322/004796",
+        "PRM/KA/RERA/1251/446/PR/310322/004797",
+        "PRM/KA/RERA/1251/446/PR/310322/004798",
+        "PRM/KA/RERA/1251/446/PR/310322/004799"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-sentosa/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-windsor": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/210219/003939",
+        "PRM/KA/RERA/1251/446/PR/210219/003942",
+        "PRM/KA/RERA/1251/446/PR/210219/003937",
+        "PRM/KA/RERA/1251/446/PR/210219/003938"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-windsor-apartments-in-whitefield/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-dream-acres": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/170915/000168",
+        "PRM/KA/RERA/1251/446/PR/170915/000156",
+        "PRM/KA/RERA/1251/446/PR/170915/000157",
+        "PRM/KA/RERA/1251/446/PR/170915/000160",
+        "PRM/KA/RERA/1251/446/PR/170915/000163",
+        "PRM/KA/RERA/1251/446/PR/170915/000165",
+        "PRM/KA/RERA/1251/310/PR/170915/000170",
+        "PRM/KA/RERA/1251/446/PR/170915/000193",
+        "PRM/KA/RERA/1251/446/PR/170915/000195",
+        "PRM/KA/RERA/1251/446/PR/170915/000202",
+        "PRM/KA/RERA/1251/446/PR/170915/000206",
+        "PRM/KA/RERA/1251/446/PR/170915/000207",
+        "PRM/KA/RERA/1251/446/PR/170915/000221",
+        "PRM/KA/RERA/1251/446/PR/170915/000223",
+        "PRM/KA/RERA/1251/446/PR/170916/000293",
+        "PRM/KA/RERA/1251/446/PR/171031/001452",
+        "PRM/KA/RERA/1251/446/PR/171031/001467",
+        "PRM/KA/RERA/1251/446/PR/180612/001897",
+        "PRM/KA/RERA/1251/446/PR/180627/001929",
+        "PRM/KA/RERA/1251/446/PR/181010/002036",
+        "PRM/KA/RERA/1251/446/PR/181010/002037",
+        "PRM/KA/RERA/1251/446/PR/181010/002038",
+        "PRM/KA/RERA/1251/446/PR/181010/002039",
+        "PRM/KA/RERA/1251/446/PR/190223/002448",
+        "PRM/KA/RERA/1251/446/PR/190223/002449",
+        "PRM/KA/RERA/1251/446/PR/190913/002845"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-dream-acres/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-lake-gardens": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/180627/001933",
+        "PRM/KA/RERA/1251/446/PR/180627/001934"
+      ],
+      "sources": [
+        "https://housing.com/in/buy/projects/page/332117-sobha-lake-gardens-by-sobha-limited-in-k-r-puram"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-royal-pavilion": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/190204/002338",
+        "PRM/KA/RERA/1251/446/PR/190204/002340",
+        "PRM/KA/RERA/1251/446/PR/190207/002363",
+        "PRM/KA/RERA/1251/446/PR/190205/002356",
+        "PRM/KA/RERA/1251/446/PR/190204/002341",
+        "PRM/KA/RERA/1251/446/PR/190205/002357",
+        "PRM/KA/RERA/1251/446/PR/190207/002362",
+        "PRM/KA/RERA/1251/446/PR/190204/002339"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-royal-pavilion/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-royal-crest": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/300522/004936"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-royal-crest/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-manhattan-towers-townpark": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/308/PR/210518/004150",
+        "PRM/KA/RERA/1251/308/PR/210518/004151"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-manhattan-towers-town-park/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-brooklyn-towers-townpark": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/308/PR/270922/005267",
+        "PRM/KA/RERA/1251/308/PR/270922/005268",
+        "PRM/KA/RERA/1251/308/PR/270922/005269"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-brooklyn-towers-town-park/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-arena": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/170917/000411",
+        "PRM/KA/RERA/1251/310/PR/170923/000384",
+        "PRM/KA/RERA/1251/310/PR/180420/001513",
+        "PRM/KA/RERA/1251/310/PR/180507/001622"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-arena/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-clovelly": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/171014/000201"
+      ],
+      "sources": [
+        "https://housing.com/in/buy/projects/page/33522-sobha-clovelly-by-sobha-limited-in-uttarahalli-hobli",
+        "https://rera.watch/projects/240-sobha-clovelly"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-rajvilas": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/181122/002155",
+        "PRM/KA/RERA/1251/309/PR/181122/002167"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-rajvilas/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-25-richmond": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/170916/000257"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.sobha.com/bengaluru/sobha-25-richmond/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-avenue-apartments": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/170916/000231"
+      ],
+      "sources": [
+        "https://www.jllhomes.co.in/apartments-new/bengaluru/sobha-avenue"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-palladian": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-eternia": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-marvella": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-habitech": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-classic": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-lavender": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-daffodil": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-iris": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-azalea": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-dahlia": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-rose": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-indraprastha": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/170915/000234"
+      ],
+      "sources": [
+        "https://www.dosl.in/projects/sobha-indraprastha"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-garrison": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-elite": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-ruby": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-ruby-platinum": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-city": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-chrysanthemum": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-landscape": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-canvas": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-althea": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-petunia": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-moonstone": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-suncrest": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-malachite-phase": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-heritage": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-forest-view": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-magnolia": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-tulip": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-dewflower": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "sobha-sobha-forest-edge": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/180227/002592"
+      ],
+      "sources": [
+        "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/sobha-forest-edge/3396"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "sobha-sobha-morzaria-grandeur": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/170917/000412"
+      ],
+      "sources": [
+        "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/sobha-morzaria-grandeur-2-w1/503",
+        "https://housing.com/in/buy/projects/page/4567-sobha-morzaria-grandeur-by-sobha-limited-in-sg-palya"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Registration is for Morzaria Grandeur 2 (W1) only; it does not establish registration for all phases of the wider development. Match the unit to this wing; current regulatory status is not independently verified."
+    }
+  },
+  "sobha-sobha-ivory": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "assetz-city-of-palms": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/303/PR/300626/008780"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/cityofpalms/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-mizumi-reserve": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/308/PR/130526/008650"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/mizumireserve"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-melodies-of-life-apartments": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/061225/008321"
+      ],
+      "sources": [
+        "https://assetzdevelopers.com/projects/assetz-inspira-melodies-of-life-apartments/"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-meru-meadow": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/130625/007828"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/meruandmeadow/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-zen-sato": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/472/PR/080525/007728"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/zenandsato"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-the-secret-lake": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/303/PR/020425/007646"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/secretlake"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-trees-tandem": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/308/PR/280325/007636",
+        "PRM/KA/RERA/1251/308/PR/160426/008586"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/treesandtandem"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-ren-rei": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/130225/007501"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/renandrei"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-22-crest": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/220802/000219"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/22andcrest/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3694.952199793185!2d77.54805187484222!3d13.01705668730245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3d6346d046e1%3A0xbaa762a7d803df13!2sAssetz%2022%20and%20Crest!5e1!3m2!1sen!2sin!4v1738303111904!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=13449827285188468499",
+      "sourceUrl": "https://www.assetzproperty.com/22andcrest/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "assetz-melodies-of-life": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/300124/006594"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/melodiesoflifeplots/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-sora-saki": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/280324/006745",
+        "PRM/KA/RERA/1251/309/PR/060324/006692",
+        "PRM/KA/RERA/1251/309/PR/210524/006929"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/soraandsaki"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-66-shibui": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/300124/006601"
+      ],
+      "sources": [
+        "https://www.realestatechecker.in/project/bengaluru/assetz-66-shibui"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-promise-of-spring": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/030424/006771"
+      ],
+      "sources": [
+        "https://housing-is-01.s3.amazonaws.com/6a32315a/b7035549f1eb62e8bb9aa4c58d9d1df0/original.pdf"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-canvas-cove": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/251023/006347",
+        "PRM/KA/RERA/1251/310/PR/071223/006454"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/canvasandcove/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-soho-sky": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/472/PR/250322/004785",
+        "PRM/KA/RERA/1251/309/PR/200524/006910"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/sohoandsky/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-18-oak": {
+    "rera": {
+      "ids": [
+        "TN/30/BUILDING/0426/2022"
+      ],
+      "sources": [
+        "https://www.assetzproperty.com/18andoak/contact-us"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Tamil Nadu registration, as published by the builder. Supplied locality is retained; project site is in Sevaganapalli, Hosur Taluk, Tamil Nadu."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.0762300793685!2d77.80516911434368!3d12.838350490943416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae73a6da6208fd%3A0x9bcb0e8970d36f90!2sAssetz%2018%20%26%20Oak!5e0!3m2!1sen!2sin!4v1632371402965!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=11226082479617306512",
+      "sourceUrl": "https://www.assetzproperty.com/18andoak/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "assetz-atmos-aura": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/210416/004127"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/atmos-and-aura/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-marq-3a-and-marq-3b": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/240122/004654",
+        "PRM/KA/RERA/1251/446/PR/091122/005433"
+      ],
+      "sources": [
+        "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/assetz-marq-phase-3a/9001",
+        "https://www.magicbricks.com/assetz-marq-3.0-rera-details-nprid-4d4235333235343833"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-sun-sanctum-phase-1": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/200211/003279"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/sunandsanctum/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-sun-sanctum-phase-2": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/150324/006702"
+      ],
+      "sources": [
+        "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/assetz-sun-sanctum-phase-2/11064"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Phase 2-specific record; shared builder page only publishes the phase 1 registration."
+    }
+  },
+  "assetz-earth-essence": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/200811/003538",
+        "PRM/KA/RERA/1251/309/PR/211027/004375",
+        "PRM/KA/RERA/1251/309/PR/180621/001907",
+        "PRM/KA/RERA/1251/309/PR/070522/004860"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/earthandessence/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 13.1481148,
+      "longitude": 77.6414453,
+      "mapsUrl": "https://www.google.com/maps/place/Assetz+Earth+%26+Essence/@13.1481148,77.6392566,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae1928a3402dd1:0x3ac0f3ee5866d3c2!8m2!3d13.1481148!4d77.6414453",
+      "sourceUrl": "https://www.assetzproperty.com/earthandessence/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "assetz-soul-soil": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/180516/001716",
+        "PRM/KA/RERA/1251/446/PR/201001/003628",
+        "PRM/KA/RERA/1251/446/PR/070522/004859"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/soulandsoil/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-marq-2a-and-2b": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "assetz-leaves-lives-phase-1": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/180808/001979"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/leavesandlives/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.8867903,
+      "longitude": 77.7053547,
+      "mapsUrl": "https://www.google.com/maps/place/Assetz+Leaves+%26+Lives/@12.881048,77.7251197,13z/data=!4m8!1m2!2m1!1sAssetz+leaves+%26+lives+near+sarjapur+road!3m4!1s0x0:0x1a2b536fd91d0363!8m2!3d12.8867903!4d77.7053547?hl=en",
+      "sourceUrl": "https://www.assetzproperty.com/leavesandlives/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "assetz-38-banyan": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/180406/001493"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/38andbanyan/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-here-now": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/171014/000797"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/hereandnow/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-marq-1": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "assetz-east-point": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "assetz-stratos": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "assetz-lumos": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "assetz-63-degree-east": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/190504/002547",
+        "PRM/KA/RERA/1251/446/PR/171030/000980",
+        "PRM/KA/RERA/1251/446/PR/240122/004656",
+        "PRM/KA/RERA/1251/446/PR/240122/004655",
+        "PRM/KA/RERA/1251/446/PR/201222/005546"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/63east/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.3496819688794!2d77.70219121482107!3d12.885221990912633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1306c866b523%3A0xe49ae8fb2aed220b!2sAssetz+63+Degree+East!5e0!3m2!1sen!2sin!4v1534758497819",
+      "mapsUrl": "https://www.google.com/maps?cid=16472734752515629579",
+      "sourceUrl": "https://www.assetzproperty.com/63east/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "assetz-bloom-dell": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/201222/005545",
+        "PRM/KA/RERA/1251/446/PR/050523/005911"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/bloomanddell/",
+        "https://www.realestatechecker.in/builder/bengaluru/apg-premium-residential-private-limited",
+        "https://www.magicbricks.com/assetz-bloom-%26-dell-rera-details-nprid-4d4235333838393333"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Original project phase ends 005545; phase 2 ends 005911. Match your tower to its phase. Current regulatory status is not independently verified."
+    }
+  },
+  "assetz-codename-sublime": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/304/PR/081026/009004"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/codenamesublime/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-niwa-neo": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/472/PR/220726/008831"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/niwaandneo/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-mizu-ki": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/070826/008862"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/mizuandki/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-miru-miyo": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/472/PR/050526/008621"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/miruandmiyo/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-muse-maison": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/040526/008618"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.assetzproperty.com/museandmaison/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "assetz-vrindavan-tech-village": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "assetz-assetz-house": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-purva-heritage": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/090726/008801"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.puravankara.com/residential/bengaluru/purva-heritage"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "puravankara-northern-lights-by-puravankara-kvn": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/120326/008523"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.puravankara.com/residential/bengaluru/northern-lights-by-puravankara-kvn-north-bengaluru"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.303213893417!2d77.67234451015896!3d13.143264111039011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1bcfbcf100cf%3A0xb57f217a8def1d66!2sPuravankara%20%7C%20KVN!5e0!3m2!1sen!2sin!4v1772536207368!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=13078208653158194534",
+      "sourceUrl": "https://www.puravankara.com/residential/bengaluru/northern-lights-by-puravankara-kvn-north-bengaluru",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "puravankara-purva-silversky": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/151225/008338"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.puravankara.com/residential/bengaluru/purva-silversky"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3890.049065119346!2d77.685082!3d12.840106!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae6d278f7ada67%3A0x4d031c03fc73bd01!2sPurva%20Silversky!5e0!3m2!1sen!2sin!4v1766047056295!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=5549309969296506113",
+      "sourceUrl": "https://www.puravankara.com/residential/bengaluru/purva-silversky",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "puravankara-purva-blubelle": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/290323/005829"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.puravankara.com/residential/bengaluru/purva-blubelle"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.945711896653!2d77.5526865757232!3d12.975324114795324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3def62ee52b9%3A0xa15527cfc7a50ade!2sPurva%20Blubelle!5e0!3m2!1sen!2sin!4v1744008516096!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=11625241786487999198",
+      "sourceUrl": "https://www.puravankara.com/residential/bengaluru/purva-blubelle",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "puravankara-purva-orient-grand": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/210907/004299"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.puravankara.com/residential/bengaluru/purva-orient-grand"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.156221962056!2d77.58740557585698!3d12.96185351509034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae151e3ab02823%3A0xbeec37b4aff45c64!2sPurva%20Orient%20Grand!5e0!3m2!1sen!2sin!4v1741503603915!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=13757432210895690852",
+      "sourceUrl": "https://www.puravankara.com/residential/bengaluru/purva-orient-grand",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "puravankara-purva-atmosphere": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/472/PR/190204/002350"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.puravankara.com/residential/bengaluru/purva-atmosphere"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31092.402873340092!2d77.63413!3d13.064268!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae19cd10cc5161%3A0x95264b2a77b017e2!2sPurva%20Atmosphere!5e0!3m2!1sen!2sin!4v1741417858978!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=10747360206535006178",
+      "sourceUrl": "https://www.puravankara.com/residential/bengaluru/purva-atmosphere",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "puravankara-northern-waves": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-purva-seasons": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-purva-midtown": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-limousine-homes": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-purva-sunflower": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/171015/000403"
+      ],
+      "sources": [
+        "https://www.puravankara.com/backend/assets/uploads/projects/brochure/7d8415a5e13b6816349b464566f8abc7.pdf"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "puravankara-purva-270": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-purva-skydale": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-purva-promenade": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/200205/003243"
+      ],
+      "sources": [
+        "https://www.puravankara.com/campaigns/promenade/"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "puravankara-purva-whitehall": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-coronation-square": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/170916/000235"
+      ],
+      "sources": [
+        "https://www.puravankara.com/backend/assets/uploads/projects/brochure/9fe78954916e5d2e9781475fa6da25c2.pdf"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "puravankara-purva-venezia": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-the-sound-of-water": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/170916/000230"
+      ],
+      "sources": [
+        "https://www.puravankara.com/backend/assets/uploads/projects/brochure/9fe78954916e5d2e9781475fa6da25c2.pdf"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "puravankara-purva-atria-platina": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-purva-skywood": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-purva-highland": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-fresco-at-purva-westend": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/170915/000236",
+        "PRM/KA/RERA/1251/310/PR/170915/000394"
+      ],
+      "sources": [
+        "https://www.puravankara.com/backend/assets/uploads/projects/brochure/9fe78954916e5d2e9781475fa6da25c2.pdf"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Published registrations for Purva Westend; tower-specific allocation for Fresco is not confirmed."
+    }
+  },
+  "puravankara-purva-palm-beach": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/170907/000091"
+      ],
+      "sources": [
+        "https://www.puravankara.com/backend/assets/uploads/projects/brochure/9fe78954916e5d2e9781475fa6da25c2.pdf"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "puravankara-purva-smiling-willows": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/170916/000230"
+      ],
+      "sources": [
+        "https://nb.puravankara.com/smilingwillows/psw-brochure.pdf"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Builder brochure states Smiling Willows is part of The Sound of Water master plan and publishes this shared registration."
+    }
+  },
+  "puravankara-purva-tiara": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-purva-parkhill": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/220601/004946"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.puravankara.com/residential/bengaluru/purva-park-hill"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "puravankara-purva-meraki": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/071022/005307"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.puravankara.com/residential/bengaluru/purva-meraki"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31112.94402318782!2d77.64721!3d12.900133!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15cb32d9d923%3A0xe79e1ba5079b6df2!2sPurva%20Meraki!5e0!3m2!1sen!2sin!4v1741457011496!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=16689807664692817394",
+      "sourceUrl": "https://www.puravankara.com/residential/bengaluru/purva-meraki",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "puravankara-purva-zenium": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/190129/002311"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.puravankara.com/residential/bengaluru/purva-zenium"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "puravankara-purva-celestial": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/071022/005303"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.puravankara.com/residential/bengaluru/purva-celestial"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "puravankara-purva-sparkling-springs": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/210907/004300"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.puravankara.com/residential/bengaluru/purva-sparkling-springs"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.8793007248883!2d77.60188947585593!3d12.851071517507684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae6bcbe6057b21%3A0x4d49ea8e114f7308!2sPurva%20Sparkling%20Springs!5e0!3m2!1sen!2sin!4v1741502086269!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=5569240310117004040",
+      "sourceUrl": "https://www.puravankara.com/residential/bengaluru/purva-sparkling-springs",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "puravankara-purva-business-park": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-purva-zentech": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "puravankara-purva-gainz": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "provident-housing-provident-botanico": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/304/PR/210324/006726"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.providenthousing.com/projects/bangalore/provident-botanico/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.6728296268593!2d77.8060448!3d12.992765499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae0f6142c74137%3A0x8c9dfd3a59220c29!2sProvident%20Botanico!5e0!3m2!1sen!2sin!4v1711800325723!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=10132533163698818089",
+      "sourceUrl": "https://www.providenthousing.com/projects/bangalore/provident-botanico/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "provident-housing-provident-sunworth-city": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/180926/008948",
+        "PRM/KA/RERA/1251/310/PR/170126/008410",
+        "PRM/KA/RERA/1251/310/PR/210325/007612",
+        "PRM/KA/RERA/1251/310/PR/180724/006944",
+        "EX/PRM/KA/RERA/1251/310/PR/230425/002585"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.providenthousing.com/projects/bangalore/provident-sunworth-city/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124435.97541108135!2d77.44912132913738!3d12.931856030114403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae398a15854881%3A0xd22d0d3f18b5ebb4!2sProvident%20Sunworth%20City!5e0!3m2!1sen!2sin!4v1667803328436!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=15144775686565522356",
+      "sourceUrl": "https://www.providenthousing.com/projects/bangalore/provident-sunworth-city/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "provident-housing-provident-deansgate": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/303/PR/041123/006373",
+        "PRM/KA/RERA/1250/303/PR/170325/007590"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.providenthousing.com/projects/bangalore/provident-deansgate/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "provident-housing-provident-ecopolitan": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/110823/006162",
+        "PRM/KA/RERA/1251/309/PR/110823/006163",
+        "PRM/KA/RERA/1251/309/PR/110823/006164",
+        "PRM/KA/RERA/1251/309/PR/110823/006165",
+        "PRM/KA/RERA/1251/309/PR/180823/006187",
+        "PRM/KA/RERA/1251/309/PR/311224/007334"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.providenthousing.com/projects/bangalore/provident-ecopolitan/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.253338278893!2d77.67863727392694!3d13.146413611023883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1b2cdde70eb7%3A0x92f603ce3b3f0cdc!2sProvident%20Ecopolitan%20Aerospace!5e0!3m2!1sen!2sin!4v1692004140837!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=10589655758100434140",
+      "sourceUrl": "https://www.providenthousing.com/projects/bangalore/provident-ecopolitan/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "provident-housing-solitaire-at-provident-park-square": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/200226/003305"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.providenthousing.com/projects/bangalore/provident-park-square-solitaire/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7779.370081258289!2d77.54064!3d12.863608!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae417a8e22df31%3A0xf75cab391d57204e!2sProvident%20Park%20Square!5e0!3m2!1sen!2sin!4v1738910353982!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=17824309687019315278",
+      "sourceUrl": "https://www.providenthousing.com/projects/bangalore/provident-park-square-solitaire/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "provident-housing-provident-park-square": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/180217/002476",
+        "EX/PRM/KA/RERA/1251/310/PR/220711/001648",
+        "EX/PRM/KA/RERA/1251/310/PR/220711/001671",
+        "PRM/KA/RERA/1251/310/PR/190129/002307",
+        "PRM/KA/RERA/1251/310/PR/200226/003305"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.providenthousing.com/projects/bangalore/provident-park-square-kanakapura-road/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15558.740162516578!2d77.54064!3d12.863608!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae417a8e22df31%3A0xf75cab391d57204e!2sProvident%20Park%20Square!5e0!3m2!1sen!2sin!4v1738918188027!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=17824309687019315278",
+      "sourceUrl": "https://www.providenthousing.com/projects/bangalore/provident-park-square-kanakapura-road/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "provident-housing-provident-capella": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/304/PR/190606/002596",
+        "PRM/KA/RERA/1250/304/PR/190719/002702"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.providenthousing.com/projects/bangalore/provident-capella-whitefield/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d485.9590988108556!2d77.806035!3d12.992768!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7c46453cb4fe95be!2sProvident%20Capella!5e0!3m2!1sen!2sin!4v1664193985534!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=8954921036109747646",
+      "sourceUrl": "https://www.providenthousing.com/projects/bangalore/provident-capella-whitefield/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "provident-housing-provident-toogoodhomes": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/472/PR/180808/001982"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.providenthousing.com/projects/bangalore/toogoodhomes/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31090.01791389076!2d77.619386!3d13.083194!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb1e7182e5f58514d!2s%23TooGoodHomes%20-%202%20BHK%20Flats%20near%20Manyata%20Tech%20Park!5e0!3m2!1sen!2sin!4v1664198200560!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=12819241451780591949",
+      "sourceUrl": "https://www.providenthousing.com/projects/bangalore/toogoodhomes/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "provident-housing-provident-welworth-city": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31071.638433911023!2d77.546773!3d13.228153!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x485a00a28dd42379!2sProvident%20Welworth%20City!5e0!3m2!1sen!2sin!4v1664371383524!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=5213480216798962553",
+      "sourceUrl": "https://www.providenthousing.com/projects/bangalore/provident-welworth-city-yelahanka/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "provident-housing-provident-the-tree": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7775.225043486193!2d77.484754!3d12.996617!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6bc06ccb6167c677!2sThe%20Tree%20By%20Provident!5e0!3m2!1sen!2sin!4v1667825149776!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=7764325378355086967",
+      "sourceUrl": "https://www.providenthousing.com/projects/bangalore/the-tree-by-provident-off-magadi-main-road/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "provident-housing-provident-equinox": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/190529/002585",
+        "PRM/KA/RERA/1251/310/PR/190525/002576"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.providenthousing.com/campaigns/equinox/"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "provident-housing-provident-sundeck": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/190529/002585"
+      ],
+      "sources": [
+        "https://www.providenthousing.com/uploads/brochures/sundeck-brochure.pdf"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Official brochure identifies Sundeck as Provident Equinox Phase II."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15557.532150684949!2d77.4692859!3d12.8830738!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd22d0d3f18b5ebb4!2sProvident%20Sundeck!5e0!3m2!1sen!2sin!4v1625651634202!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=15144775686565522356",
+      "sourceUrl": "https://www.providenthousing.com/sundeck/",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "lodha-lodha-beaumont-estate": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/472/PR/200726/008829"
+      ],
+      "status": "supplied",
+      "sources": [
+        "https://www.lodhagroup.com/residential-projects-in-bangalore"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Registration supplied in the original inventory; retained without claiming independent verification."
+    }
+  },
+  "lodha-lodha-whitefield": {
+    "rera": {
+      "ids": [],
+      "status": "unconfirmed",
+      "sources": [],
+      "checkedOn": "2026-11-13",
+      "basis": "No confidently matched project/phase registration found. This does not establish exemption or lack of registration."
+    }
+  },
+  "lodha-lodha-elanza": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/308/PR/191225/008353"
+      ],
+      "status": "supplied",
+      "sources": [
+        "https://www.lodhagroup.com/residential-projects-in-bangalore"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Registration supplied in the original inventory; retained without claiming independent verification."
+    }
+  },
+  "lodha-lodha-azur": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/220324/006728",
+        "PRM/KA/RERA/1251/310/PR/280324/006746",
+        "PRM/KA/RERA/1251/310/PR/200925/008110"
+      ],
+      "status": "supplied",
+      "sources": [
+        "https://www.lodhagroup.com/residential-projects-in-bangalore"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Registration supplied in the original inventory; retained without claiming independent verification."
+    }
+  },
+  "lodha-lodha-haven": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/308/PR/260326/008551",
+        "PRM/KA/RERA/1251/308/PR/280525/007785"
+      ],
+      "status": "supplied",
+      "sources": [
+        "https://www.lodhagroup.com/residential-projects-in-bangalore"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Registration supplied in the original inventory; retained without claiming independent verification."
+    }
+  },
+  "lodha-lodha-mirabelle": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/131023/006321"
+      ],
+      "status": "supplied",
+      "sources": [
+        "https://www.lodhagroup.com/residential-projects-in-bangalore"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Registration supplied in the original inventory; retained without claiming independent verification."
+    }
+  },
+  "godrej-properties-godrej-woodscapes": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/170524/006882",
+        "PRM/KA/RERA/1251/446/PR/170524/006888"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bengaluru/residential/godrej-woodscapes"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 13.0470814,
+      "longitude": 77.7500925,
+      "sourceUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-woodscapes",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "godrej-properties-godrej-lakeside-orchard": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/300924/007105"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bengaluru/residential/godrej-lakeside-orchard"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.8900352,
+      "longitude": 77.7059278,
+      "sourceUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-lakeside-orchard",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "godrej-properties-barca-at-godrej-msr-city": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/303/PR/010425/007644"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bengaluru/residential/barca-at-godrej-msr-city"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 13.1941044,
+      "longitude": 77.6573202,
+      "sourceUrl": "https://www.godrejproperties.com/bengaluru/residential/barca-at-godrej-msr-city",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "godrej-properties-godrej-tiara": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/110625/007817"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bengaluru/residential/godrej-tiara"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 13.0293433,
+      "longitude": 77.5375934,
+      "sourceUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-tiara",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "godrej-properties-godrej-woods": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/472/PR/121125/008248"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bengaluru/residential/godrej-woods-bengaluru"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 13.1075625,
+      "longitude": 77.6334375,
+      "sourceUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-woods-bengaluru",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "godrej-properties-aravya-estate": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/301/PR/171025/008180"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bengaluru/plotted/aravya-estate"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 13.393751010954892,
+      "longitude": 77.48579515767138,
+      "sourceUrl": "https://www.godrejproperties.com/bengaluru/plotted/aravya-estate",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "godrej-properties-godrej-parkshire": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/304/PR/090126/008393"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bengaluru/residential/godrej-parkshire"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 13.046875633883644,
+      "longitude": 77.78378031349129,
+      "sourceUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-parkshire",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "godrej-properties-godrej-aveline": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/020326/008501"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bengaluru/residential/godrej-aveline"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    }
+  },
+  "godrej-properties-godrej-vanantara": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/130526/008653"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bengaluru/residential/godrej-vanantara"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.839247791991083,
+      "longitude": 77.602331718162,
+      "sourceUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-vanantara",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "godrej-properties-godrej-regent-park": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/308/PR/150726/008810"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bengaluru/residential/godrej-regent-park"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.8601063,
+      "longitude": 77.7518333,
+      "sourceUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-regent-park",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "godrej-properties-godrej-florenne": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/304/PR/150926/008942",
+        "PRM/KA/RERA/1250/304/PR/150926/008943"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bengaluru/residential/godrej-florenne"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.9719375,
+      "longitude": 77.8015625,
+      "sourceUrl": "https://www.godrejproperties.com/bengaluru/residential/godrej-florenne",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "godrej-properties-godrej-avenues": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/170905/000229"
+      ],
+      "status": "supplied",
+      "sources": [
+        "https://www.godrejproperties.com/index.php/bangalore_projects"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Registration supplied in the original inventory; retained without claiming independent verification."
+    }
+  },
+  "godrej-properties-godrej-reserve": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/303/PR/181122/002158",
+        "PRM/KA/RERA/1250/303/PR/181123/002192"
+      ],
+      "status": "supplied",
+      "sources": [
+        "https://www.godrejproperties.com/index.php/bangalore_projects"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Registration supplied in the original inventory; retained without claiming independent verification."
+    }
+  },
+  "godrej-properties-godrej-24": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/308/PR/190523/002566"
+      ],
+      "status": "supplied",
+      "sources": [
+        "https://www.godrejproperties.com/index.php/bangalore_projects"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Registration supplied in the original inventory; retained without claiming independent verification."
+    }
+  },
+  "godrej-properties-godrej-eternity": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/171013/000233",
+        "PRM/KA/RERA/1251/310/PR/171102/002197",
+        "PRM/KA/RERA/1251/310/PR/171102/002199"
+      ],
+      "status": "supplied",
+      "sources": [
+        "https://www.godrejproperties.com/index.php/bangalore_projects"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Registration supplied in the original inventory; retained without claiming independent verification."
+    }
+  },
+  "godrej-properties-godrej-united": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/171010/000003"
+      ],
+      "status": "supplied",
+      "sources": [
+        "https://www.godrejproperties.com/index.php/bangalore_projects"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Registration supplied in the original inventory; retained without claiming independent verification."
+    }
+  },
+  "godrej-properties-godrej-air": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/170819/000006"
+      ],
+      "status": "supplied",
+      "sources": [
+        "https://www.godrejproperties.com/index.php/bangalore_projects"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Registration supplied in the original inventory; retained without claiming independent verification."
+    }
+  },
+  "godrej-properties-godrej-aqua": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/190102/002277"
+      ],
+      "status": "supplied",
+      "sources": [
+        "https://www.godrejproperties.com/index.php/bangalore_projects"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Registration supplied in the original inventory; retained without claiming independent verification."
+    }
+  },
+  "godrej-properties-godrej-ananda": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/309/PR/210331/004084"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bangalore/residential/godrej-ananda/about"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15540.920601963819!2d77.6743886!3d13.1478776!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x20035784b271ee37!2sGodrej%20Ananda%2C%20Bangalore!5e0!3m2!1sen!2sin!4v1618564612708!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=2306783661584936503",
+      "sourceUrl": "https://www.godrejproperties.com/bangalore/residential/godrej-ananda/about",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "godrej-properties-godrej-park-retreat": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/280222/004736"
+      ],
+      "sources": [
+        "https://www.godrejindustries.com/public/uploads/subsidiaries_accounts/gpl-integrated-report-2024-25-jWKrCcH3RaISAacZufU.pdf"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "godrej-properties-godrej-royale-woods": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/303/PR/200515/003411"
+      ],
+      "sources": [
+        "https://www.godrejproperties.com/bangalore/residential/godrej-royale-woods/about/faq"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "godrej-properties-godrej-splendour": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/160622/005000",
+        "PRM/KA/RERA/1251/446/PR/120123/005611"
+      ],
+      "sources": [
+        "https://www.godrejindustries.com/public/uploads/subsidiaries_accounts/gpl-integrated-report-2024-25-jWKrCcH3RaISAacZufU.pdf"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "godrej-properties-godrej-woodland": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/304/PR/210208/003856"
+      ],
+      "status": "source-matched",
+      "sources": [
+        "https://www.godrejproperties.com/bengaluru/plotted/godrej-woodland"
+      ],
+      "checkedOn": "2026-11-13",
+      "basis": "Project-specific published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "latitude": 12.8990405,
+      "longitude": 77.8363907,
+      "sourceUrl": "https://www.godrejproperties.com/bengaluru/plotted/godrej-woodland",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "casatrance-skanda-aura": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/303/PR/100926/008932"
+      ],
+      "sources": [
+        "https://housing.com/in/buy/projects/page/372920-skanda-aura-by-skanda-living-space-llp-in-devanahalli"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3883.54390198327!2d77.7137301737371!3d13.25391510862859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb1e29a26196f37%3A0xc0bc9bfe158dd49e!2sSkanda%20Aura%2C%20opp.%20to%20Dmart%2C%20Devanahalli%2C%20Binnamangala%2C%20Devanahalli%2C%20Karnataka%20562110!5e0!3m2!1sen!2sin!4v1780289694981!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=13888146866489382046",
+      "sourceUrl": "https://www.casatrance.com/projects/skanda-aura",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "casatrance-needs-3-project-168": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/151222/005522"
+      ],
+      "sources": [
+        "https://housing.com/in/buy/projects/page/290065-ds-needs-3-project-168-by-ds-and-jaks-constructions-pvt-ltd-in-horamavu"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    }
+  },
+  "casatrance-sampoojitha-heights": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/270526/008687"
+      ],
+      "sources": [
+        "https://housing.com/in/buy/projects/page/365197-sampoojitha-heights-by-sampoojitha-developers-in-k-r-puram"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.4975367913325!2d77.74920717507706!3d13.00395728731435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae0f00799cdfd7%3A0xf57a0eb5ecc5e5e3!2sSampoojitha%20Heights!5e0!3m2!1sen!2sin!4v1780289305568!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=17688466660975306211",
+      "sourceUrl": "https://www.casatrance.com/projects/sampoojitha-heights",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "casatrance-needs-3-project-276": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/310/PR/171026/000453"
+      ],
+      "sources": [
+        "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-urban/needs-3-project276/646"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.5731351467157!2d77.59402257373!3d12.870824317082471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae6ace0377249d%3A0xda4faab5a58d6da6!2sDS%20%26%20Jaks%20Needs3%20Project%20276!5e0!3m2!1sen!2sin!4v1780290014695!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=15730979720571743654",
+      "sourceUrl": "https://www.casatrance.com/projects/needs-3-project-276",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "casatrance-carpe-diem-villas": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/304/PR/080525/007729"
+      ],
+      "sources": [
+        "https://www.aurumproptech.in/pulse/rera/karnataka/bengaluru-rural/carpe-diem/13319",
+        "https://www.squareyards.com/bangalore-residential-property/vijayasri-vijetha-carpe-diem/338796/project"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Registration is for Carpe Diem layout by Vijayasri Vijetha Infra Projects; secondary villa listing matches the project. Separate villa-construction registration is not confirmed."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.3257723304796!2d77.82386952507825!3d13.078528287246767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae0538dd9e7b11%3A0x4aaee42cea1525cc!2sCarpe%20Diem%20by%20Vijayasri%20%26%20Vijetha%20-%204%20BHK%20Triplex%20Villas%20in%20Kolathur%2C%20Bengaluru.!5e0!3m2!1sen!2sin!4v1780051603632!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=5381489486311269836",
+      "sourceUrl": "https://www.casatrance.com/projects/vijayasri-vijetha-carpe-diem-villas",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "casatrance-impact-sanvi-aero-gardens": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1250/303/PR/090125/007369"
+      ],
+      "sources": [
+        "https://www.rerainspector.com/state/karnataka/projects/12764"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "Project name and supplied locality matched to the published registration; current regulatory status not independently verified."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3884.272839997203!2d77.66652317373622!3d13.208179409649993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1d0020dca041%3A0xff25ab0a76c17e7b!2sImpact%20Sanvi%20Aero%20Gardens!5e0!3m2!1sen!2sin!4v1780290125284!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=18385289115240332923",
+      "sourceUrl": "https://www.casatrance.com/projects/impact-sanvi-aero-gardens",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  },
+  "casatrance-amogaya-adorit": {
+    "rera": {
+      "ids": [
+        "PRM/KA/RERA/1251/446/PR/230425/007689"
+      ],
+      "sources": [
+        "https://rera.watch/projects/13292-amogaya-adorit",
+        "https://gethorizon.in/projects/amogaya-adorit-bengaluru-east-0dmg4hk7"
+      ],
+      "status": "source-matched",
+      "checkedOn": "2026-11-13",
+      "basis": "The intermediary listing publishes an inconsistent registration. These two project-specific records agree on the registration and promoter."
+    },
+    "location": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.6935720519023!2d77.76428827373337!3d13.05516661304332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae0f0071459cbf%3A0xbaaa51cfa92e952d!2sAmogaya%20Adorit%20%7C%203%20BHK%20Private%20Garden%20Residences!5e0!3m2!1sen!2sin!4v1780290244822!5m2!1sen!2sin",
+      "mapsUrl": "https://www.google.com/maps?cid=13450653189433890093",
+      "sourceUrl": "https://www.casatrance.com/projects/amogaya-adorit",
+      "checkedOn": "2026-11-13",
+      "basis": "Project map published on the project-specific source page."
+    }
+  }
+}
