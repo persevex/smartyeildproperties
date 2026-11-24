@@ -1,6 +1,5 @@
 import React,{useEffect,useRef} from 'react';
 import {projects} from './propertyData.js';
-import './about.css';
 const values=[['01','Informed decisions','We help individuals and families understand their options, with the knowledge and support to make confident homebuying decisions.'],['02','Thoughtful guidance','Our team brings real estate experience and a personal approach to each stage of your property search.'],['03','Long-term thinking','Our vision includes sustainable growth for our organisation, the clients we serve, and the communities in which we operate.'],['04','Service with integrity','Professionalism, transparency, and integrity guide the way we work and the relationships we build.']];
 const builderCount=new Set(projects.map(p=>p.builder).filter(Boolean)).size;
 export default function About(){

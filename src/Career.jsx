@@ -1,5 +1,4 @@
 import React, {useState,useEffect,useRef} from 'react';
-import './career.css';
 
 const lifeCards=[
  ['Purpose Driven Work','Make a real difference by helping people find the right property. Every interaction is a step toward building trust and lasting value.'],
@@ -7,7 +6,8 @@ const lifeCards=[
  ['Learning Every Day','We believe in continuous learning through real world experiences. Every project is a chance to improve, adapt, and get better.'],
  ['Commitment to Integrity','Transparency and honesty are at the core of what we do. We build relationships that go beyond just closing a deal.'],
 ];
-export const jobs=[{"url":"/jobs/digital-marketing-executive/","title":"Digital Marketing Executive","specs":["Full Time","Bangalore","1 – 2 Years"]},{"url":"/jobs/senior-sales-associatepune/","title":"Senior Sales Associate(Pune)","specs":["Full Time","pune","0 – 2 years"]},{"url":"/jobs/senior-sales-associate-2-hyderabad/","title":"Business Development Associate (HYD)","specs":["Full Time","Hyderabad","2 – 3 Years"]},{"url":"/jobs/manager-chennai/","title":"Senior Sales Associate (Chennai)","specs":["Full Time","chennai","2 – 3 Years"]},{"url":"/jobs/assistant-manager-chennai-2/","title":"Pre Sales Associate (Chennai)","specs":["Full Time","chennai","1 – 2 Years"]},{"url":"/jobs/sales-associate-2/","title":"Business Development Associate (BLR)","specs":["Full Time","Bangalore","0 – 2 years"]},{"url":"/jobs/sales-associate/","title":"Senior Property Advisor (BLR)","specs":["Full Time","Bangalore","0 – 2 years"]}];
+import {jobs} from './jobs.js';
+export {jobs} from './jobs.js';
 function JobFilter({label,options,value,onChange}){
  const ref=useRef(null);
  useEffect(()=>{const close=e=>{if(!ref.current?.contains(e.target)||e.key==='Escape')ref.current.open=false};document.addEventListener('pointerdown',close);document.addEventListener('keydown',close);return()=>{document.removeEventListener('pointerdown',close);document.removeEventListener('keydown',close)}},[]);

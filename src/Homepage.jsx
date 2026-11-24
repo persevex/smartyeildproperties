@@ -1,7 +1,6 @@
 import React,{useEffect,useRef,useState} from 'react';
 import data from './homeData.json';
 import {projects,provided,projectPath,priceLabel,isClosed,isLegacy,propertyTypeOptions,propertyRegions,priceRangeOptions,projectTypes} from './propertyData.js';
-import './homepage.css';
 import {PropertyRera,PropertyLocation} from './PropertyLocation.jsx';
 const inventory=projects.filter(p=>!isClosed(p)&&!isLegacy(p));
 const serviceCategories=[['Apartments','Apartments/Flats','Compare apartment and flat projects by builder, location, configuration, and listed price.'],['Villas','Villas','Explore villa projects with the locations, configurations, and sizes provided in our collection.'],['Plots','Plots','Review plotted developments using the plot sizes, locations, and prices listed in our collection.']];

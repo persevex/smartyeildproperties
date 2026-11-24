@@ -1,5 +1,4 @@
 import React from 'react';
-import './contact.css';
 
 function Icon({type}){return <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={type==='phone'?2:1} aria-hidden="true">{type==='email'?<><rect x="2" y="5" width="20" height="14" rx="3"/><path d="m6 9 6 4 6-4"/></>:type==='phone'?<path d="M5 3H2c0 11 8 19 19 19v-6l-5-1-2 3c-4-2-7-5-8-8l3-2-1-5z"/>:<path d="m3 10 15-7c3-1 4 1 3 3l-7 15c-1 2-3 1-3-1l-1-6-6-1c-2 0-3-2-1-3Z"/>}</svg>}
 const cards=[

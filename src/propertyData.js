@@ -1,8 +1,8 @@
-import sourceProjects from './data/properties.json';
-import projectImages from './data/project-images.json';
-import regionMapping from './data/property-regions.json';
-import projectResearch from './data/property-research.json';
-import projectEnrichment from './data/property-enrichment.json';
+import sourceProjects from './data/properties.json' with {type: 'json'};
+import projectImages from './data/project-images.json' with {type: 'json'};
+import regionMapping from './data/property-regions.json' with {type: 'json'};
+import projectResearch from './data/property-research.json' with {type: 'json'};
+import projectEnrichment from './data/property-enrichment.json' with {type: 'json'};
 
 // Restore the full inventory. Enrichment fills gaps without erasing supplied facts.
 export const hasListedPrice=p=>Number.isFinite(p.priceFromLakh)||Boolean(p.advertisedPrice?.trim()&&!/on request|not provided|call|contact|TBA/i.test(p.advertisedPrice));
@@ -31,7 +31,7 @@ export function bedroomOptions(p){
  const range=text.match(/(\d+)\s*[–-]\s*(\d+)\s*BHK/i);
  return range?Array.from({length:Number(range[2])-Number(range[1])+1},(_,i)=>Number(range[1])+i):[...new Set((text.match(/\d+(?:\.\d+)?/g)||[]).map(Number))];
 }
-export function readFilters(search=window.location.search){
+export function readFilters(search=typeof window==='undefined'?'':window.location.search){
  const q=new URLSearchParams(search);
  const incomingType=q.get('type')||'';
  const isCategory=['Ready to Move','Ongoing','Pre Launch'].includes(incomingType);

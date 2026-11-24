@@ -1,8 +1,6 @@
 import FloorPlans from './FloorPlans.jsx';
 import React, {useEffect,useRef,useState} from 'react';
 import {projects,PAGE_SIZE,provided,projectPath,normalize,isClosed,isLegacy,canEnquire,priceLabel,priceHeading,hasListedPrice,readFilters,filterProjects,propertyRegions,propertyRegion,propertyIllustration,propertyTypeOptions,bhkOptions,builderOptions,priceRangeOptions,statusOptions} from './propertyData.js';
-import './properties.css';
-import './property-details.css';
 import {PropertyRera,PropertyLocation} from './PropertyLocation.jsx';
 
 const categories=['Apartments','Villas','Plots','Ready to Move','2 BHK','2.5 BHK','3 BHK','4 BHK','Pre Launch'];
@@ -20,8 +18,8 @@ function PropertyCard({property:p,onContact}){return <article className="listing
  <a className="listing-photo" href={projectPath(p)} aria-label={`View ${p.name}`}><PropertyImage property={p}/>{p.status&&<span className="listing-status">{p.status}</span>}</a>
  <div className="listing-body">{p.location&&<p className="listing-location"><span aria-hidden="true">⌖</span> {p.location}</p>}<h3><a href={projectPath(p)}>{p.name}</a></h3>{p.builder&&<p className="listing-builder">By {p.builder}</p>}<dl className="listing-specs">{[['Configuration',p.configuration],['Size as listed',p.sizeSqFt],['Property type',p.propertyType]].filter(([,value])=>value).map(([label,value])=><div key={label}><dt>{label}</dt><dd>{value}</dd></div>)}</dl><PropertyRera property={p} compact/><PropertyLocation property={p} compact/>{isLegacy(p)&&<p className="listing-history">Historical listing · Availability not confirmed</p>}<div className="listing-price"><span>{priceHeading(p)}</span><strong>{priceLabel(p)}</strong></div><div className="listing-actions"><a href={projectPath(p)}>View Details <span aria-hidden="true">↗</span></a><a className="listing-floor-plan-link" href={`${projectPath(p)}#floorplans`}>Floor plans</a>{canEnquire(p)&&<button type="button" onClick={onContact}>Enquire</button>}</div></div>
  </article>}
-export function PropertiesSearch({SearchSelect:Select,Pagination,onContact}){
- const [filters,setFilters]=useState(()=>readFilters()),[draft,setDraft]=useState(()=>readFilters()),[page,setPage]=useState(()=>Math.max(1,Number(new URLSearchParams(window.location.search).get('page'))||1));
+export function PropertiesSearch({SearchSelect:Select,Pagination,onContact,initialSearch=''}){
+ const [filters,setFilters]=useState(()=>readFilters(initialSearch)),[draft,setDraft]=useState(()=>readFilters(initialSearch)),[page,setPage]=useState(()=>Math.max(1,Number(new URLSearchParams(initialSearch).get('page'))||1));
  const flats=useRef(null),root=useRef(null);
  const [sort,setSort]=useState('default');
  const filtered=filterProjects(filters);

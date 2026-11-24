@@ -1,6 +1,5 @@
 import React,{useEffect,useRef,useState} from 'react';
 import floorPlans from './data/floorplans.json';
-import './floor-plans.css';
 
 export const hasFloorPlans=project=>Boolean(floorPlans[project.id]?.plans?.length);
 export default function FloorPlans({property,onContact}){

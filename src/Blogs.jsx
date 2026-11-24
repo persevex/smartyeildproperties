@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import data from './homeData.json';
 import moreBlogs from './blogPosts.json';
-import './blogs.css';
 
 const allBlogs=[...new Map([...data.blogs,...moreBlogs].map(blog=>[blog.url,blog])).values()];
 const categories=['All',...['Godrej','Brigade','Prestige','Sobha','Assetz','Provident','Lodha','Puravankara'].filter(name=>allBlogs.some(blog=>blog.title.toLowerCase().includes(name.toLowerCase())))];

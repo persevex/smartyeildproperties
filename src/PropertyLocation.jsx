@@ -1,6 +1,5 @@
 import React,{useState} from 'react';
 import {propertyMap} from './propertyData.js';
-import './property-location.css';
 
 export function PropertyRera({property:p,compact=false}){
  const ids=p.reraIds||[];

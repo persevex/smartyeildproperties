@@ -1,9 +1,8 @@
 import React,{useEffect} from 'react';
 import data from './homeData.json';
 import moreBlogs from './blogPosts.json';
-import {jobs} from './Career.jsx';
+import {jobs} from './jobs.js';
 import {projects,normalize,projectPath} from './propertyData.js';
-import './local-pages.css';
 
 export const journalPosts=[...new Map([...data.blogs,...moreBlogs].map(p=>[p.url,p])).values()];
 const matchProject=post=>projects.find(p=>normalize(p.name)===normalize(post.name)||normalize(`${p.builder} ${p.name}`)===normalize(post.name));

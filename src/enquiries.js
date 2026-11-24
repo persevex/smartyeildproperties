@@ -1,6 +1,5 @@
-const settings=import.meta.env||{};
-export const enquiryEndpoint=settings.VITE_ENQUIRY_ENDPOINT||'';
-export const enquiryEmail=settings.VITE_ENQUIRY_EMAIL||'hr@smartyieldpropeties.com';
+export const enquiryEndpoint=process.env.NEXT_PUBLIC_ENQUIRY_ENDPOINT||'';
+export const enquiryEmail=process.env.NEXT_PUBLIC_ENQUIRY_EMAIL||'hr@smartyieldpropeties.com';
 export const enquiryButtonLabel=enquiryEndpoint?'Send Enquiry':'Continue in Email';
 export function enquiryPayload(form,pageUrl){
  const values=new FormData(form);

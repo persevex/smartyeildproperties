@@ -1,10 +1,7 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {createServer} from 'vite';
+import {projects,hasListedPrice,filterProjects,canEnquire,isClosed,propertyMap} from '../src/propertyData.js';
 
-const server=await createServer({server:{middlewareMode:true},appType:'custom'});
-try{
- const {projects,hasListedPrice,filterProjects,canEnquire,isClosed,propertyMap}=await server.ssrLoadModule('/src/propertyData.js');
  const source=JSON.parse(fs.readFileSync('src/data/properties.json','utf8'));
  const enrichment=JSON.parse(fs.readFileSync('src/data/property-enrichment.json','utf8'));
  assert.equal(projects.length,source.length,'Every source project must remain visible');
@@ -39,4 +36,3 @@ try{
  assert.ok(!one('lodha-lodha-whitefield').advertisedPrice,'Unpublished price must stay absent');
  assert.equal(one('assetz-sun-sanctum-phase-2').reraIds[0],'PRM/KA/RERA/1251/309/PR/150324/006702');
  console.log(`Checked ${projects.length} projects, ${Object.keys(enrichment).length} researched records, ${projects.filter(hasListedPrice).length} numeric/listed prices, original-data preservation, sources, maps and phase corrections.`);
-}finally{await server.close()}
